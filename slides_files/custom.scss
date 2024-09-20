@@ -1,0 +1,12 @@
+/*-- scss:defaults --*/
+
+$presentation-font-size-root: 60px;
+
+/*-- scss:rules --*/
+
+.reveal .slide-logo {
+  height: 100px !important;
+  width: 100px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
