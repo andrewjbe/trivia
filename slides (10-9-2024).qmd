@@ -65,7 +65,7 @@ format:
 
 ## Question 9
 
-> The song “Fuck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
+> The N.W.A. classic “F*ck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
 
 ## Question 10
 
@@ -155,7 +155,7 @@ format:
 
 ## Question 9
 
-> The song “Fuck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
+> The N.W.A. classic “F*ck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
 
 \
 
@@ -584,13 +584,13 @@ format:
 -   **Answer:** [**Richard Nixon**]{.underline}
 :::
 
-## Question 4
+## Question 4 {.smaller}
 
 > The last time a Republican candidate won the popular vote for President was in 2004 (George W. Bush). The second most recent time this happened was in what year?
 
 ::: incremental
 -   **Answer:** [**1988 (George H. W. Bush)**]{.underline}
-  -   Despite this, Republicans have won half of all Presidential elections since 1988 thanks to the Electoral College. Neat!
+    -   Despite this, Republicans have won four of the nine Presidential elections since then thanks to the Electoral College. Neat!
 :::
 
 ## Question 5
