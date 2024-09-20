@@ -528,7 +528,7 @@ format:
 
 ## Question 4
 
-> According to legend, in what year was the city of Rome founded?
+> The last time a Republican candidate won the popular vote for President was in 2004 (George W. Bush). The second most recent time this happened was in what year?
 
 ## Question 5
 
@@ -586,12 +586,11 @@ format:
 
 ## Question 4
 
-> According to legend, in what year was the city of Rome founded?
-
-\
+> The last time a Republican candidate won the popular vote for President was in 2004 (George W. Bush). The second most recent time this happened was in what year?
 
 ::: incremental
--   **Answer:** [**753 B.C.**]{.underline}
+-   **Answer:** [**1988 (George H. W. Bush)**]{.underline}
+  -   Despite this, Republicans have won half of all Presidential elections since 1988 thanks to the Electoral College. Neat!
 :::
 
 ## Question 5
