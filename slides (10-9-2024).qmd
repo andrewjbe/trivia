@@ -1,0 +1,845 @@
+---
+title: "BUNKER CLUB TRIVIA"
+author: "featuring the long-awaited return of guest host Andrew!"
+format: 
+  revealjs:
+    theme: [dark, slides_files/custom.scss]
+    logo: slides_files/www/bunker-logo.jpeg
+    title-slide-attributes:
+      data-background-image: slides_files/www/title-background.png
+---
+
+# Trivia Rules
+
+## How it Works {.smaller}
+
+-   It’s free to play!
+-   There are **6 rounds** with **10 questions** each.
+-   There are also 2 bonus games: **“Celebrity Guessing Game”** & **“My 3 Songs”**.
+-   You can double your points for a single round by employing your Wild Card!
+    -   The bonus does not includes either bonus game.
+-   Gift cards go to 1st, 2nd, and 3rd place teams!
+
+## Things You Can't Do
+
+\
+
+-   Please don’t use your phone or any other means to cheat.
+-   Please don’t shout out answers aloud!
+
+<!-- Round 1 ------------------------------------------------------------------>
+
+# Round 1: *General Knowledge*
+
+## Question 1
+
+> What was the name of the cold war military alliance led by the Soviet Union?
+
+## Question 2
+
+> What governing document did the Constitution replace?
+
+## Question 3
+
+> From which Italian explorer does the United States of America derive its name?
+
+## Question 4
+
+> The “Arab Spring” began in 2011 in what country?
+
+## Question 5
+
+> “Acrophobia” is a fear of what?
+
+## Question 6
+
+> The largest political party in the world by membership is located in what country?
+
+## Question 7
+
+> What animal briefly became a cultural phenomenon after a 2011 YouTube video celebrated its uncouth and combative demeanor?
+
+## Question 8
+
+> In the Mormon tradition, there are three “degrees of Glory” which make up the afterlife. The lowest is the Tellestial Kingdom, the middle is the Terrestrial Kingdom, and the highest is the \_\_\_\_\_\_\_\_\_ Kingdom.
+
+## Question 9
+
+> The song “Fuck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
+
+## Question 10
+
+> Which of the titans in *Attack on Titan* is the biggest?
+
+## Celebrity Guessing Game #1 (3 points) {.smaller}
+
+> This tall, distinguished actor is known for his deep voice and dramatic villain roles. He is lesser known for his time as an opera singer, his heavy metal concept album *'Charlemagne: By the Sword and the Cross'*, and his time as a Nazi hunter during WWII, but he managed to do all of that and more before he died in 2015 at the age of 93.
+
+# Round 1: Answers
+
+## Question 1
+
+> What was the name of the cold war military alliance led by the Soviet Union?
+
+\
+
+::: incremental
+-   **Answer:** [**The Warsaw Pact**]{.underline}
+:::
+
+## Question 2
+
+> What governing document did the Constitution replace?
+
+\
+
+::: incremental
+-   **Answer:** [**The Articles of Confederation**]{.underline}
+:::
+
+## Question 3
+
+> From which Italian explorer does the United States of America derive its name?
+
+\
+
+::: incremental
+-   **Answer:** [**Amerigo Vespucci**]{.underline}
+:::
+
+## Question 4
+
+> The “Arab Spring” began in 2011 in what country?
+
+\
+
+::: incremental
+-   **Answer:** [**Tunisia**]{.underline}
+:::
+
+## Question 5
+
+> “Acrophobia” is a fear of what?
+
+\
+
+::: incremental
+-   **Answer:** [**Heights**]{.underline}
+:::
+
+## Question 6
+
+> The largest political party in the world by membership is located in what country?
+
+::: incremental
+-   **Answer:** [**India**]{.underline}
+    -   The Indian People's Party, or BJP, has over 100 million registered members!
+:::
+
+## Question 7
+
+> What animal briefly became a cultural phenomenon after a 2011 YouTube video celebrated its uncouth and combative demeanor?
+
+::: incremental
+-   **Answer:** [**The Honey Badger**]{.underline}
+:::
+
+## Question 8 {.smaller}
+
+> In the Mormon tradition, there are three “degrees of Glory” which make up the afterlife. The lowest is the Tellestial Kingdom, the middle is the Terrestrial Kingdom, and the highest is the \_\_\_\_\_\_\_\_\_ Kingdom.
+
+::: incremental
+-   **Answer:** [**Celestial**]{.underline}
+    -   You can also fail to inherit any of them, and be cast into a state called "outer darkness" to dwell with Satan and his followers. Yikes!
+:::
+
+## Question 9
+
+> The song “Fuck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
+
+\
+
+::: incremental
+-   **Answer:** [**MC Ren**]{.underline}
+:::
+
+## Question 10
+
+> Which of the titans in Attack on Titan is the biggest?
+
+\
+
+::: incremental
+-   **Answer:** [**The Colossal Titan**]{.underline}
+:::
+
+# Music Break
+
+##  {background-video="slides_files/videos/Beastie Boys - Sabotage.mp4"}
+
+<!-- Round 2 ------------------------------------------------------------------>
+
+# Round 2: *Titular Trivia*
+
+## Question 1
+
+> The titular hobbit in *The Hobbit?*
+
+## Question 2
+
+> The titular avatar in *Avatar: The Last Airbender?*
+
+## Question 3
+
+> The titular prisoner in *Harry Potter: The Prisoner of Azkaban?*
+
+## Question 4
+
+> The species of the titular alien from *Alien* (1979)?
+
+## Question 5
+
+> The titular Fullmetal Alchemist in *Fullmetal Alchemist*?
+
+## Question 6
+
+> The first name of the titular *Great Gatsby*?
+
+## Question 7
+
+> The titular wimpy kid in *Diary of a Wimpy Kid?*
+
+## Question 8
+
+> The titular witch in *The Lion, the Witch, and the Wardrobe*?
+
+## Question 9
+
+> The titular girl who is gone from *Gone Girl*?
+
+## Question 10
+
+> The given name of the titular Lady Bird from *Lady Bird* (2017)?
+
+## Celebrity Guessing Game #2 (2 points) {.smaller}
+
+> His honors include a Knighthood in 2009, a British Academy of Film and Television Arts (BAFTA) Fellowship in 2011, and a British Film Institiute (BFI) Fellowship in 2013. He also received the Bram Stoker Award for Lifetime Achievement in the horror genre.
+
+# Round 2: Answers
+
+## Question 1
+
+> The titular hobbit in *The Hobbit?*
+
+\
+
+::: incremental
+-   **Answer: [Bilbo Baggins]{.underline}**
+:::
+
+## Question 2
+
+> The titular avatar in *Avatar: The Last Airbender?*
+
+\
+
+::: incremental
+-   **Answer: [Aang]{.underline}**
+:::
+
+## Question 3
+
+> The titular prisoner in *Harry Potter: The Prisoner of Azkaban?*
+
+::: incremental
+-   **Answer:** [**Sirius Black**]{.underline}
+:::
+
+## Question 4
+
+> The species of the titular alien from *Alien* (1979)?
+
+::: incremental
+-   **Answer:** [**Xenomorph**]{.underline}
+    -   This name is actually never said in the first movie. The term is first used in the sequel, *Aliens* (1986).
+:::
+
+## Question 5
+
+> The titular Fullmetal Alchemist in *Fullmetal Alchemist*?
+
+\
+
+::: incremental
+-   **Answer:** [**Edward Elrich**]{.underline}
+:::
+
+## Question 6
+
+> The first name of the titular *Great Gatsby*?
+
+\
+
+::: incremental
+-   **Answer:** [**Jay Gatsby**]{.underline}
+:::
+
+## Question 7
+
+> The titular wimpy kid in *Diary of a Wimpy Kid?*
+
+\
+
+::: incremental
+-   **Answer:** [**Greg Heffley**]{.underline}
+:::
+
+## Question 8
+
+> The titular witch in *The Lion, the Witch, and the Wardrobe*?
+
+\
+
+::: incremental
+-   **Answer:** [**Jadis (The White Witch)**]{.underline}
+:::
+
+## Question 9
+
+> The titular girl who is gone from *Gone Girl*?
+
+\
+
+::: incremental
+-   **Answer:** [**Amy Dunne**]{.underline}
+:::
+
+## Question 10
+
+> The given name of the titular Lady Bird from *Lady Bird* (2017)?
+
+\
+
+::: incremental
+-   **Answer:** [**Christine McPherson**]{.underline}
+:::
+
+# My Four Songs
+
+## My Four Songs: Rules {.smaller}
+
+-   The next four music videos have something in common
+
+-   You can use your phone or whatever else to identify the song and find the commonality -- just make sure it's only in between rounds.
+
+-   After the final song at the end of round 5, you'll write your guess as to what the songs have in common on the back of your answer sheet.
+
+-   If you get it right, you'll get +3 bonus points!
+
+    -   Remember this can't be doubled by the Wild Card.
+
+# My Four Songs #1
+
+##  {background-video="slides_files/videos/Beyonce - Love On Top.mp4"}
+
+<!-- Round 3 ------------------------------------------------------------------>
+
+# Round 3: *Crossword Round*
+
+*Double O's (words containging "oo")*
+
+## Question 1
+
+> The day’s midpoint
+
+## Question 2
+
+> At an irregular or improper angle
+
+## Question 3
+
+> A loud cry of exultation or excitement
+
+## Question 4
+
+> A small kiss
+
+## Question 5
+
+> A double-reeded woodwind instrument
+
+## Question 6
+
+> A very tall, cone-bearing evergreen tree
+
+## Question 7
+
+> A dentifrice that comes in a tube
+
+## Question 8
+
+> To sing or speak in a soft low tone
+
+## Question 9
+
+> A coastal natural disaster
+
+## Question 10
+
+> To chit chat with an ulterior motive
+
+## Celebrity Guessing Game #3 (1 point) {.smaller}
+
+> He first gained fame portraying Count Dracula in seven films produced by Hammer Film Productions. Now, he's best known for his roles in the *James Bond* and *Star Wars* films, the *Lord of the Rings* and *Hobbit* trilogies, several Tim Burton films, and *The Wicker Man* (1973). He was also in *Gremlins 2: The New Batch (1990)*, for what it's worth.
+
+# Round 3: Answers
+
+## Question 1
+
+> The day’s midpoint
+
+\
+
+::: incremental
+-   **Answer: [Noon]{.underline}**
+:::
+
+## Question 2
+
+> At an irregular or improper angle
+
+\
+
+::: incremental
+-   **Answer: [Crooked]{.underline}**
+:::
+
+## Question 3
+
+> A loud cry of exultation or excitement
+
+\
+
+::: incremental
+-   **Answer:** [**Whoop**]{.underline}
+:::
+
+## Question 4
+
+> A small kiss
+
+\
+
+::: incremental
+-   **Answer:** [**Smooch**]{.underline}
+:::
+
+## Question 5
+
+> A double-reeded woodwind instrument
+
+\
+
+::: incremental
+-   **Answer:** [**Bassoon**]{.underline}
+:::
+
+## Question 6
+
+> A very tall, cone-bearing evergreen tree
+
+\
+
+::: incremental
+-   **Answer:** [**Redwood**]{.underline}
+:::
+
+## Question 7
+
+> A dentifrice that comes in a tube
+
+\
+
+::: incremental
+-   **Answer:** [**Toothpaste**]{.underline}
+:::
+
+## Question 8
+
+> To sing or speak in a soft low tone
+
+\
+
+::: incremental
+-   **Answer:** [**Croon**]{.underline}
+:::
+
+## Question 9
+
+> A coastal natural disaster
+
+\
+
+::: incremental
+-   **Answer:** [**Typhoon**]{.underline}
+:::
+
+## Question 10
+
+> To chit chat with an ulterior motive
+
+\
+
+::: incremental
+-   **Answer:** [**Schmooze**]{.underline}
+:::
+
+## Celebrity Guessing Game Answer:
+
+\
+
+::: incremental
+-   [**Christopher Lee**]{.underline}
+
+![](slides_files/celebs/christopher-lee.jpg){.absolute top="125" right="10"}
+:::
+
+# My Four Songs #2
+
+##  {background-video="slides_files/videos/ZZ Top - Sharp Dressed Man.mp4"}
+
+<!-- Round 4 ------------------------------------------------------------------>
+
+# Halftime Standings
+
+# Round 4: *General Knowledge II*
+
+## Question 1
+
+> When was the last year that a Canadian team won the Stanley Cup?
+
+## Question 2
+
+> What grammatical term refers to a verb used as a noun? E.g. “I love [baking]{.underline} and [jogging]{.underline}!”
+
+## Question 3
+
+> What U.S. President declared *“I'm not for women in any job. I don't want any of them around. Thank God we don't have any in the cabinet.”*?
+
+## Question 4
+
+> According to legend, in what year was the city of Rome founded?
+
+## Question 5
+
+> What country has the world's largest Muslim population?
+
+## Question 6
+
+> Name one of the current US Senators from Oklahoma.
+
+## Question 7
+
+> In the English language, what pronoun is the first-person singular reflexive?
+
+## Question 8
+
+> What was the name of the last Imperial Chinese dynasty, which was overthrown in 1911?
+
+## Question 9
+
+> What was the more commonly known name of the National Liberation Front of South Vietnam?
+
+## Question 10
+
+> Who was the first person born in the 21st century to win an Academy Award?
+
+# Round 4: Answers
+
+## Question 1
+
+> When was the last year that a Canadian team won the Stanley Cup?
+
+\
+
+::: incremental
+-   **Answer: [1993]{.underline}**
+:::
+
+## Question 2
+
+> What grammatical term refers to a verb used as a noun? E.g. “I love [baking]{.underline} and [jogging]{.underline}!”
+
+\
+
+::: incremental
+-   **Answer: [Gerund]{.underline}**
+:::
+
+## Question 3
+
+> What U.S. President declared *“I'm not for women in any job. I don't want any of them around. Thank God we don't have any in the cabinet.”*?
+
+::: incremental
+-   **Answer:** [**Richard Nixon**]{.underline}
+:::
+
+## Question 4
+
+> According to legend, in what year was the city of Rome founded?
+
+\
+
+::: incremental
+-   **Answer:** [**753 B.C.**]{.underline}
+:::
+
+## Question 5
+
+> What country has the world's largest Muslim population?
+
+::: incremental
+-   **Answer:** [**Indonesia** (242.7 million)]{.underline}
+    -   2nd place is Pakistan (233 million), and 3rd is India (200 million).
+:::
+
+## Question 6
+
+> Name one of the current US Senators from Oklahoma.
+
+\
+
+::: incremental
+-   **Answer:** [**Markwayne Mullin (R) and James Lankford (R)**]{.underline}
+:::
+
+## Question 7
+
+> In the English language, what pronoun is the first-person singular reflexive?
+
+\
+
+::: incremental
+-   **Answer:** [**Myself**]{.underline}
+:::
+
+## Question 8
+
+> What was the name of the last Imperial Chinese dynasty, which was overthrown in 1911?
+
+\
+
+::: incremental
+-   **Answer:** [**The Qing Dynasty**]{.underline}
+:::
+
+## Question 9
+
+> What was the more commonly known name of the National Liberation Front of South Vietnam?
+
+\
+
+::: incremental
+-   **Answer:** [**The Viet Cong**]{.underline}
+:::
+
+## Question 10
+
+> Who was the first person born in the 21st century to win an Academy Award?
+
+::: incremental
+-   **Answer:** [**Billie Eilish**]{.underline}
+    -   For Best Original Song for "No Time to Die" from *No Time to Die* (2021).
+:::
+
+# My Four Songs #3
+
+##  {background-video="slides_files/videos/Megan Thee Stallion - Her.mp4"}
+
+<!-- Round 5 ------------------------------------------------------------------>
+
+# Round 5: *Fictional Currencies*
+
+## Question 1
+
+> What currency would you use to buy some arrows or bombs in the *Legend of Zelda* games?
+
+## Question 2
+
+> In the 1987 comedy cult classic *Spaceballs*, Lone Starr owes Pizza the Hutt 100,000 of what currency?
+
+## Question 3
+
+> What currency is used across the Empire in the *Elder Scrolls* universe?
+
+## Question 4
+
+> What currency does Tom Nook, the capitalist Tanuki of the *Animal Crossing* franchise, accept at his stores?
+
+## Question 5
+
+> What coin-shaped, pre-war items are used as currency in the Fallout universe?
+
+## Question 6
+
+> Bitcoin is currently the biggest cryptocurrency in the world by market capitalization. What is the *second* biggest?
+
+## Question 7
+
+> If Sonic the Hedgehog were struck by a car or a bus, what kind of currency would spill out all over the road?
+
+## Question 8
+
+> What currency would you use to buy a new house if you were a character in *The Sims* franchise?
+
+## Question 9
+
+> Though *Star Trek* largely takes place in a post-capitalist utopia, some still use what fictitious metal as a form of currency?
+
+## Question 10
+
+> What currency would you use to buy a new dance or a Peter Griffin skin in *Fortnite*?
+
+# Round 5: Answers
+
+## Question 1
+
+> What currency would you use to buy some arrows or bombs in the *Legend of Zelda* games?
+
+\
+
+::: incremental
+-   **Answer: [Rupees]{.underline}**
+:::
+
+## Question 2
+
+> In the 1987 comedy cult classic *Spaceballs*, Lone Starr owes Pizza the Hutt 100,000 of what currency?
+
+\
+
+::: incremental
+-   **Answer: [Spacebucks]{.underline}**
+:::
+
+## Question 3
+
+> What currency is used across the Empire in the *Elder Scrolls* universe?\
+
+::: incremental
+-   **Answer:** [**Septims**]{.underline}
+:::
+
+## Question 4
+
+> What currency does Tom Nook, the capitalist Tanuki of the *Animal Crossing* franchise, accept at his stores?
+
+\
+
+::: incremental
+-   **Answer:** [**Bells**]{.underline}
+:::
+
+## Question 5
+
+> What coin-shaped, pre-war items are used as currency in the Fallout universe?
+
+\
+
+::: incremental
+-   **Answer:** [**Bottlecaps**]{.underline}
+:::
+
+## Question 6
+
+> Bitcoin is currently the biggest cryptocurrency in the world by market capitalization. What is the *second* biggest?
+
+::: incremental
+-   **Answer:** [**Ethereum**]{.underline}
+:::
+
+## Question 7
+
+> If Sonic the Hedgehog were struck by a car or a bus, what kind of currency would spill out all over the road?
+
+::: incremental
+-   **Answer:** [**Rings**]{.underline}
+    -   This is unlikely to happen, because Sonic is very fast.
+:::
+
+## Question 8
+
+> What currency would you use to buy a new house if you were a character in *The Sims* franchise?
+
+\
+
+::: incremental
+-   **Answer:** [**Simoleons**]{.underline}
+:::
+
+## Question 9
+
+> Though *Star Trek* largely takes place in a post-capitalist utopia, some still use what fictitious metal as a form of currency?
+
+::: incremental
+-   **Answer:** [**Latinum**]{.underline}
+:::
+
+## Question 10
+
+> What currency would you use to buy a new dance or a Peter Griffin skin in *Fortnite*?
+
+\
+
+::: incremental
+-   **Answer:** [**V-bucks**]{.underline}
+:::
+
+# My Four Songs #4
+
+##  {background-video="slides_files/videos/Kenny Rogers - The Gambler.mp4"}
+
+<!-- Round 6 ------------------------------------------------------------------>
+
+# Round 6: *Best Selling Albums*
+
+## Pictures {background-image="slides_files/picture-rounds/skeleton.png"}
+
+# Round 6: Answers
+
+## Answers {background-image="slides_files/picture-rounds/skeleton.png"}
+
+# My Four Songs:
+
+*Secrets Revealed*
+
+## My Four Songs:
+
+-   Song #1: *Love on Top* - Beyoncé
+-   Song #2: *Sharp Dressed Man* - ZZ Top
+-   Song #3: *Her* - Megan Thee Stallion
+-   Song #4: *The Gambler* - Kenny Rogers
+
+## My Four Songs: The Hiden Link
+
+The thing that these four songs had in common was...
+
+::: incremental
+-   [**They're all from Houston, Texas!**]{.underline}
+:::
+
+# Final Music Break
+
+##  {background-video="slides_files/videos/Darude - Sandstorm.mp4"}
+
+# Final Scores
+
+## Prizes
+
+-   **1st Place**: a [**\$50 Gift Card**]{.underline}. You're the Trivia Champs! Congrats!
+-   **2nd Place**: a [**\$30 Gift Card**]{.underline}. You fought valiantly! Well done!
+-   **3rd Place**: a [**\$15 Gift Card**]{.underline}. Hey, it's \$15! Not bad!
+
+# Thanks for playing!!
+
+*Tip your bartenders!*
