@@ -65,7 +65,7 @@ format:
 
 ## Question 9
 
-> The N.W.A. classic “F*ck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
+> The N.W.A. classic “F\*ck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
 
 ## Question 10
 
@@ -155,7 +155,7 @@ format:
 
 ## Question 9
 
-> The N.W.A. classic “F*ck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
+> The N.W.A. classic “F\*ck tha Police” includes vocals from Dr. Dre, Eazy E, Ice Cube, and who else?
 
 \
 
@@ -560,10 +560,9 @@ format:
 
 > When was the last year that a Canadian team won the Stanley Cup?
 
-\
-
 ::: incremental
--   **Answer: [1993]{.underline}**
+-   **Answer: [1993 (Montreal Canadiens)]{.underline}**
+    -   They've made it to seven Finals since then ('94, '04, '06, '07, '11, '21, and '24), only to taste defeat each time.
 :::
 
 ## Question 2
@@ -590,7 +589,7 @@ format:
 
 ::: incremental
 -   **Answer:** [**1988 (George H. W. Bush)**]{.underline}
-    -   Despite this, Republicans have won four of the nine Presidential elections since then thanks to the Electoral College. Neat!
+    -   Republicans have won four of the nine Presidential elections since then anyway, thanks to the Electoral College. Neat!
 :::
 
 ## Question 5
@@ -626,10 +625,9 @@ format:
 
 > What was the name of the last Imperial Chinese dynasty, which was overthrown in 1911?
 
-\
-
 ::: incremental
 -   **Answer:** [**The Qing Dynasty**]{.underline}
+    -   Founded in 1644, it lasted 267 years (about 20 years more than the USA).
 :::
 
 ## Question 9
