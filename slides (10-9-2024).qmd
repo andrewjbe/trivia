@@ -33,11 +33,17 @@ format:
 
 ## Question 1
 
-> What was the name of the cold war military alliance led by the Soviet Union?
+> Which of these places has the largest population:
+>
+> -   Australia
+>
+> -   Florida
+>
+> -   Republic of Madagascar
 
 ## Question 2
 
-> What governing document did the Constitution replace?
+> What governing document did the U.S. Constitution replace?
 
 ## Question 3
 
@@ -69,7 +75,7 @@ format:
 
 ## Question 10
 
-> Which of the titans in *Attack on Titan* is the biggest?
+> What country do the protagonists of *Attack on Titan* call home?
 
 ## Celebrity Guessing Game #1 (3 points) {.smaller}
 
@@ -77,19 +83,24 @@ format:
 
 # Round 1: Answers
 
-## Question 1
+## Question 1 {.smaller}
 
-> What was the name of the cold war military alliance led by the Soviet Union?
-
-\
+> Which of these places has the largest population:
+>
+> -   Australia
+>
+> -   Florida
+>
+> -   Republic of Madagascar
 
 ::: incremental
--   **Answer:** [**The Warsaw Pact**]{.underline}
+-   **Answer:** [**The Republic of Madagascar (29.61 million)**]{.underline}
+    -   Australia has 26.1 million, and Florida has 22.24 million.
 :::
 
 ## Question 2
 
-> What governing document did the Constitution replace?
+> What governing document did the U.S. Constitution replace?
 
 \
 
@@ -165,12 +176,12 @@ format:
 
 ## Question 10
 
-> Which of the titans in Attack on Titan is the biggest?
+> What country do the protagonists of *Attack on Titan* call home?
 
 \
 
 ::: incremental
--   **Answer:** [**The Colossal Titan**]{.underline}
+-   **Answer:** [**Eldia**]{.underline}
 :::
 
 # Music Break
@@ -223,7 +234,7 @@ format:
 
 ## Celebrity Guessing Game #2 (2 points) {.smaller}
 
-> His honors include a Knighthood in 2009, a British Academy of Film and Television Arts (BAFTA) Fellowship in 2011, and a British Film Institiute (BFI) Fellowship in 2013. He also received the Bram Stoker Award for Lifetime Achievement in the horror genre.
+> His honors include a Knighthood in 2009, a British Academy of Film and Television Arts (BAFTA) Fellowship in 2011, and a British Film Institiute (BFI) Fellowship in 2013. He also received the Bram Stoker Award for Lifetime Achievement in the horror genre, in large part for his iconic portrayals of Count Dracula.
 
 # Round 2: Answers
 
@@ -328,7 +339,7 @@ format:
 
 ## My Four Songs: Rules {.smaller}
 
--   The next four music videos have something in common
+-   The next four music videos have something in common.
 
 -   You can use your phone or whatever else to identify the song and find the commonality -- just make sure it's only in between rounds.
 
@@ -390,7 +401,7 @@ format:
 
 ## Celebrity Guessing Game #3 (1 point) {.smaller}
 
-> He first gained fame portraying Count Dracula in seven films produced by Hammer Film Productions. Now, he's best known for his roles in the *James Bond* and *Star Wars* films, the *Lord of the Rings* and *Hobbit* trilogies, several Tim Burton films, and *The Wicker Man* (1973). He was also in *Gremlins 2: The New Batch (1990)*, for what it's worth.
+> Now, he's best known for his feature roles in several famed film franchises, including *James Bond*, *Star Wars*, *The Lord of the Rings* / *The Hobbit*, and *Police Academy*. He also starred in several Tim Burton films, including *Corpse Bride* (2005) and *Alice in Wonderland* (2010). He was also in *Gremlins 2: The New Batch* (1990), although I doubt that's going to help anyone much.
 
 # Round 3: Answers
 
@@ -536,7 +547,7 @@ format:
 
 ## Question 6
 
-> Name one of the current US Senators from Oklahoma.
+> Name one of the current U.S. Senators from Oklahoma.
 
 ## Question 7
 
@@ -603,7 +614,7 @@ format:
 
 ## Question 6
 
-> Name one of the current US Senators from Oklahoma.
+> Name one of the current U.S. Senators from Oklahoma.
 
 \
 
@@ -687,7 +698,7 @@ format:
 
 ## Question 8
 
-> What currency would you use to buy a new house if you were a character in *The Sims* franchise?
+> What currency would you use to buy a new house if you were a character in *The Sims*?
 
 ## Question 9
 
@@ -766,7 +777,7 @@ format:
 
 ## Question 8
 
-> What currency would you use to buy a new house if you were a character in *The Sims* franchise?
+> What currency would you use to buy a new house if you were a character in *The Sims*?
 
 \
 
@@ -800,11 +811,15 @@ format:
 
 # Round 6: *Best Selling Albums*
 
-## Pictures {background-image="slides_files/picture-rounds/skeleton.png"}
+##
+
+![](slides_files/picture-rounds/best selling albums.png){fig-align="center"}
 
 # Round 6: Answers
 
-## Answers {background-image="slides_files/picture-rounds/skeleton.png"}
+##
+
+![](slides_files/picture-rounds/best selling albums answers.png){fig-align="center"}
 
 # My Four Songs:
 
@@ -827,7 +842,7 @@ The thing that these four songs had in common was...
 
 # Final Music Break
 
-##  {background-video="slides_files/videos/Darude - Sandstorm.mp4"}
+##  {background-video="slides_files/videos/Talking Heads - Once in a Lifetime.mp4"}
 
 # Final Scores
 
