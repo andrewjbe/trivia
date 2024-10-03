@@ -357,7 +357,7 @@ format:
 
 # Round 3: *Crossword Round*
 
-*Double O's (words containging "oo")*
+*Double O's (words containing "oo")*
 
 ## Question 1
 
