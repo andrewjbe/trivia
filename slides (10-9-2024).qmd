@@ -194,15 +194,15 @@ format:
 
 ## Question 1
 
-> The titular hobbit in *The Hobbit?*
+> The name of the titular hobbit in *The Hobbit?*
 
 ## Question 2
 
-> The titular avatar in *Avatar: The Last Airbender?*
+> The name of the titular avatar in *Avatar: The Last Airbender?*
 
 ## Question 3
 
-> The titular prisoner in *Harry Potter: The Prisoner of Azkaban?*
+> The name of the titular prisoner in *Harry Potter: The Prisoner of Azkaban?*
 
 ## Question 4
 
@@ -210,7 +210,7 @@ format:
 
 ## Question 5
 
-> The titular Fullmetal Alchemist in *Fullmetal Alchemist*?
+> The name of the titular Fullmetal Alchemist in *Fullmetal Alchemist*?
 
 ## Question 6
 
@@ -218,15 +218,15 @@ format:
 
 ## Question 7
 
-> The titular wimpy kid in *Diary of a Wimpy Kid?*
+> The name of the titular wimpy kid in *Diary of a Wimpy Kid?*
 
 ## Question 8
 
-> The titular witch in *The Lion, the Witch, and the Wardrobe*?
+> The name of the titular nanny from '90s sitcom *The Nanny*?
 
 ## Question 9
 
-> The titular girl who is gone from *Gone Girl*?
+> The name of the titular girl who is gone from *Gone Girl*?
 
 ## Question 10
 
@@ -240,7 +240,7 @@ format:
 
 ## Question 1
 
-> The titular hobbit in *The Hobbit?*
+> The name of the titular hobbit in *The Hobbit?*
 
 \
 
@@ -250,7 +250,7 @@ format:
 
 ## Question 2
 
-> The titular avatar in *Avatar: The Last Airbender?*
+> The name of the titular avatar in *Avatar: The Last Airbender?*
 
 \
 
@@ -260,7 +260,7 @@ format:
 
 ## Question 3
 
-> The titular prisoner in *Harry Potter: The Prisoner of Azkaban?*
+> The name of the titular prisoner in *Harry Potter: The Prisoner of Azkaban?*
 
 ::: incremental
 -   **Answer:** [**Sirius Black**]{.underline}
@@ -277,7 +277,7 @@ format:
 
 ## Question 5
 
-> The titular Fullmetal Alchemist in *Fullmetal Alchemist*?
+> The name of the titular Fullmetal Alchemist in *Fullmetal Alchemist*?
 
 \
 
@@ -297,7 +297,7 @@ format:
 
 ## Question 7
 
-> The titular wimpy kid in *Diary of a Wimpy Kid?*
+> The name of the titular wimpy kid in *Diary of a Wimpy Kid?*
 
 \
 
@@ -307,12 +307,12 @@ format:
 
 ## Question 8
 
-> The titular witch in *The Lion, the Witch, and the Wardrobe*?
+> The name of the titular nanny from '90s sitcom *The Nanny*?
 
 \
 
 ::: incremental
--   **Answer:** [**Jadis (The White Witch)**]{.underline}
+-   **Answer:** [**Fran Fine**]{.underline}
 :::
 
 ## Question 9
@@ -547,7 +547,7 @@ format:
 
 ## Question 6
 
-> Name one of the current U.S. Senators from Oklahoma.
+> Which of the major arcana in a traditional Tarot deck shares its name with a popular TV game show?
 
 ## Question 7
 
@@ -614,12 +614,12 @@ format:
 
 ## Question 6
 
-> Name one of the current U.S. Senators from Oklahoma.
+> Which of the major arcana in a traditional Tarot deck shares its name with a popular TV game show?
 
 \
 
 ::: incremental
--   **Answer:** [**Markwayne Mullin (R) and James Lankford (R)**]{.underline}
+-   **Answer:** [**The Wheel of Fortune**]{.underline}
 :::
 
 ## Question 7
