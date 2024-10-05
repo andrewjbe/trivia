@@ -47,7 +47,7 @@ format:
 
 ## Question 3
 
-> From which Italian explorer does the United States of America derive its name?
+> What legendary WWF wrestler was known for his "glass break" entrance music and his signature Stunner?
 
 ## Question 4
 
@@ -110,12 +110,12 @@ format:
 
 ## Question 3
 
-> From which Italian explorer does the United States of America derive its name?
+> What legendary WWF wrestler was known for his "glass break" entrance music and his signature Stunner?
 
 \
 
 ::: incremental
--   **Answer:** [**Amerigo Vespucci**]{.underline}
+-   **Answer:** [**Stone Cold Steve Austin**]{.underline}
 :::
 
 ## Question 4
@@ -181,7 +181,7 @@ format:
 \
 
 ::: incremental
--   **Answer:** [**Eldia**]{.underline}
+-   **Answer:** [**Eldia / Paradis Island**]{.underline}
 :::
 
 # Music Break
@@ -381,7 +381,7 @@ format:
 
 ## Question 6
 
-> A very tall, cone-bearing evergreen tree
+> A humerous imitation
 
 ## Question 7
 
@@ -457,12 +457,12 @@ format:
 
 ## Question 6
 
-> A very tall, cone-bearing evergreen tree
+> A humerous imitation
 
 \
 
 ::: incremental
--   **Answer:** [**Redwood**]{.underline}
+-   **Answer:** [**Spoof**]{.underline}
 :::
 
 ## Question 7
@@ -551,7 +551,7 @@ format:
 
 ## Question 7
 
-> In the English language, what pronoun is the first-person singular reflexive?
+> What NCAAM college basketball team was the first #1 seed in March Madness history to lose to a #16 seed?
 
 ## Question 8
 
@@ -624,12 +624,11 @@ format:
 
 ## Question 7
 
-> In the English language, what pronoun is the first-person singular reflexive?
-
-\
+> What NCAAM college basketball team was the first #1 seed in March Madness history to lose to a #16 seed?
 
 ::: incremental
--   **Answer:** [**Myself**]{.underline}
+-   **Answer:** [**Virginia (UVA)**]{.underline}
+    -   They lost to the UMBC Golden Retrievers by 20 points!
 :::
 
 ## Question 8
@@ -682,7 +681,7 @@ format:
 
 ## Question 4
 
-> What currency does Tom Nook, the capitalist Tanuki of the *Animal Crossing* franchise, accept at his stores?
+> What currency does *Animal Crossing*'s Tom Nook accept at his stores?
 
 ## Question 5
 
@@ -742,7 +741,7 @@ format:
 
 ## Question 4
 
-> What currency does Tom Nook, the capitalist Tanuki of the *Animal Crossing* franchise, accept at his stores?
+> What currency does *Animal Crossing*'s Tom Nook accept at his stores?
 
 \
 
@@ -802,7 +801,7 @@ format:
 \
 
 ::: incremental
--   **Answer:** [**V-bucks**]{.underline}
+-   **Answer:** [**V-Bucks**]{.underline}
 :::
 
 # My Four Songs #4
@@ -813,15 +812,15 @@ format:
 
 # Round 6: *Best Selling Albums*
 
-##
+## 
 
-![](slides_files/picture-rounds/best selling albums.png){fig-align="center"}
+![](slides_files/picture-rounds/best%20selling%20albums.png){fig-align="center"}
 
 # Round 6: Answers
 
-##
+## 
 
-![](slides_files/picture-rounds/best selling albums answers.png){fig-align="center"}
+![](slides_files/picture-rounds/best%20selling%20albums%20answers.png){fig-align="center"}
 
 # My Four Songs:
 
@@ -854,7 +853,7 @@ The thing that these four songs had in common was...
 -   **2nd Place**: a [**\$30 Gift Card**]{.underline}. You fought valiantly! Well done!
 -   **3rd Place**: a [**\$15 Gift Card**]{.underline}. Hey, it's \$15! Not bad!
 
-# Thanks for playing!! 
+# Thanks for playing!!
 
 *Tip your bartenders!*
 
