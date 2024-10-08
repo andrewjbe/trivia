@@ -47,7 +47,7 @@ format:
 
 ## Question 3
 
-> What legendary WWF wrestler was known for his "glass break" entrance music and his signature Stunner?
+> What legendary WWF wrestler was known for his "glass break" entrance music and his signature "Stunner"?
 
 ## Question 4
 
@@ -110,7 +110,7 @@ format:
 
 ## Question 3
 
-> What legendary WWF wrestler was known for his "glass break" entrance music and his signature Stunner?
+> What legendary WWF wrestler was known for his "glass break" entrance music and his signature "Stunner"?
 
 \
 
@@ -161,7 +161,7 @@ format:
 
 ::: incremental
 -   **Answer:** [**Celestial**]{.underline}
-    -   You can also fail to inherit any of them, and be cast into a state called "outer darkness" to dwell with Satan and his followers. Yikes!
+    -   You can also be cast into a state called "outer darkness", to dwell with Satan and his followers for all eternity. Yikes!
 :::
 
 ## Question 9
@@ -261,6 +261,8 @@ format:
 ## Question 3
 
 > The name of the titular prisoner in *Harry Potter: The Prisoner of Azkaban?*
+
+\
 
 ::: incremental
 -   **Answer:** [**Sirius Black**]{.underline}
@@ -628,7 +630,7 @@ format:
 
 ::: incremental
 -   **Answer:** [**Virginia (UVA)**]{.underline}
-    -   They lost to the UMBC Golden Retrievers by 20 points!
+    -   They lost to the UMBC Golden Retrievers by 20 points in 2018!
 :::
 
 ## Question 8
@@ -656,7 +658,7 @@ format:
 
 ::: incremental
 -   **Answer:** [**Billie Eilish**]{.underline}
-    -   For Best Original Song for "No Time to Die" from *No Time to Die* (2021).
+    -   For Best Original Song "No Time to Die" from *No Time to Die* (2021).
 :::
 
 # My Four Songs #3
