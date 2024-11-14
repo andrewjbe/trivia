@@ -183,47 +183,71 @@ format:
 
 <!-- Round 2 ------------------------------------------------------------------>
 
-# Round 2: **
+# Round 2: *Karaoke Quiz*
+
+*Fill in the missing words in these famous song lyrics!*
 
 ## Question 1
 
-> 
+> "Your beauty is beyond compare, with flaming locks of ______ ____"
+>
+> -- Dolly Parton
 
 ## Question 2
 
-> 
+> "Rollin' down the street, ______ ____, sippin' on gin and juice"
+>
+> -- Snoop Dogg
 
 ## Question 3
 
-> 
+> "Lean on me, when you're ___ ______, and I'll be your friend"
+>
+> -- Bill Withers
 
 ## Question 4
 
-> 
+> "If you said goodbye to me tonight, there would still be _____ left to write"
+>
+> -- Billy Joel
 
 ## Question 5
 
-> 
+> "Here I am baby, ______, ______, ________, I'm yours!"
+>
+> -- Stevie Wonder
 
 ## Question 6
 
-> 
+> "Watch out! My outfit's ridiculous, in the club lookin' so ___________"
+>
+> -- Ludacris
 
 ## Question 7
 
-> 
+> "Almost heaven, West Virginia... ____ _____ ________, Shenandoah River"
+>
+> -- John Denver
 
 ## Question 8
 
-> 
+> "I said what's, what's cooler than being cool?"
+>
+> "___ ____!"
+>
+> -- Outkast
 
 ## Question 9
 
-> 
+> "Well, I'm running down the road, tryin' to loosen my load, I've got _____ _____ on my mind"
+>
+> -- The Eagles
 
 ## Question 10
 
-> 
+> "Real G's move in silence like _______"
+>
+> -- Lil Wayne
 
 ## Celebrity Guessing Game #2 (2 points) {.smaller}
 
@@ -233,102 +257,104 @@ format:
 
 ## Question 1
 
-> 
+> "Your beauty is beyond compare, with flaming locks of ______ ____"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"auburn hair" (Dolly Parton -- Jolene)**]{.underline}
 :::
 
 ## Question 2
 
-> 
+> "Rollin' down the street, ______ ____, sippin' on gin and juice"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"smokin' indo" (Snoop Dogg -- Gin and Juice)**]{.underline}
 :::
 
 ## Question 3
 
-> 
+> "Lean on me, when you're ___ ______, and I'll be your friend"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"not strong" (Bill Withers -- Lean on Me)**]{.underline}
 :::
 
 ## Question 4
 
-> 
+> "If you said goodbye to me tonight, there would still be _____ left to write"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"music" (Billy Joel -- The Longest Time)**]{.underline}
 :::
 
 ## Question 5
 
-> 
+> "Here I am baby, ______, ______, ________, I'm yours!"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"signed, sealed, delivered" (Stevie Wonder -- Signed, Sealed, Delivered**]{.underline}
 :::
 
 ## Question 6
 
-> 
+> "Watch out! My outfit's ridiculous, in the club lookin' so ___________"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"conspicuous" (Usher ft. Lil Jon and Ludacris -- Yeah!)**]{.underline}
 :::
 
 ## Question 7
 
-> 
+> "Almost heaven, West Virginia... ____ _____ ________, Shenandoah River"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"Blue Ridge Mountains" (John Denver -- Take Me Home, Country Roads)**]{.underline}
 :::
 
 ## Question 8
 
-> 
+> "I said what's, what's cooler than being cool?"
+>
+> "___ ____!"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"ice cold" (Outkast -- Hey Ya!)**]{.underline}
 :::
 
 ## Question 9
 
-> 
+> "Well, I'm running down the road, tryin' to loosen my load, I've got _____ _____ on my mind"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"seven women" (The Eagles -- Take it Easy)**]{.underline}
 :::
 
 ## Question 10
 
-> 
+> "Real G's move in silence like _______"
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"lasagna" (Lil Wayne -- 6 Foot 7 Foot)**]{.underline}
 :::
 
 # My Four Songs
