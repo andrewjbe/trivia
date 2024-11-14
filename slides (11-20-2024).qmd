@@ -251,7 +251,7 @@ format:
 
 ## Celebrity Guessing Game #2 (2 points) {.smaller}
 
-> 
+> This artist is known for embracing several distinct "characters" throughout their musical career, including "The Blind Prophet", "Halloween Jack", and "The Thin White Duke". They are also known for the characters they played on the silver screen, in films like *The Prestige (2006)*, *Zoolander (2001)*, and *Labyrinth (1986)*.
 
 # Round 2: Answers
 
@@ -379,152 +379,152 @@ format:
 
 # Round 3: *Crossword Round*
 
-* (words containing "")*
+*Squivia (words containing "squ")*
 
 ## Question 1
 
-> 
+> To wriggle or twist the body from side to side.
 
 ## Question 2
 
-> 
+> An absurd or comically exaggerated imitation, especially in a literary or dramatic work.
 
 ## Question 3
 
-> 
+> Someone considered to be insignificant, especially because they are small or young.
 
 ## Question 4
 
-> 
+> Extremely dirty and unpleasant, especially as a result of poverty or neglect
 
 ## Question 5
 
-> 
+> Fair and honest, or at a right angle.
 
 ## Question 6
 
-> 
+> To make ineligible for an office or activity.
 
 ## Question 7
 
-> 
+> Inducing feelings of anxiety or worry.
 
 ## Question 8
 
-> 
+> To inaccurately repeat a remark or phrase.
 
 ## Question 9
 
-> 
+> Soft and easily compressed.
 
 ## Question 10
 
-> 
+> Visually attractive, especially in a quaint or pretty style.
 
 ## Celebrity Guessing Game #3 (1 point) {.smaller}
 
-> 
+> He was inducted into the Rock and Roll Hall of Fame in 1996 for his numerous classic albums, including *Let's Dance (1983)* and *The Rise and Fall of Ziggy Stardust (1972)*. Twenty years later, he released his 26th and final album *Blackstar (2016)* just two days before his death.
 
 # Round 3: Answers
 
 ## Question 1
 
-> 
+> To wriggle or twist the body from side to side.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Squirm**]{.underline}
 :::
 
 ## Question 2
 
-> 
+> An absurd or comically exaggerated imitation, especially in a literary or dramatic work.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Burlesque**]{.underline}
 :::
 
 ## Question 3
 
-> 
+> Someone considered to be insignificant, especially because they are small or young.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Pipsqueak**]{.underline}
 :::
 
 ## Question 4
 
-> 
+> Extremely dirty and unpleasant, especially as a result of poverty or neglect.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Squalid**]{.underline}
 :::
 
 ## Question 5
 
-> 
+> Fair and honest, or at a right angle.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Square**]{.underline}
 :::
 
 ## Question 6
 
-> 
+> To make ineligible for an office or activity.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Disqualify**]{.underline}
 :::
 
 ## Question 7
 
-> 
+> Inducing feelings of anxiety or worry.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Disquieting**]{.underline}
 :::
 
 ## Question 8
 
-> 
+> To inaccurately repeat a remark or phrase.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Misquote**]{.underline}
 :::
 
 ## Question 9
 
-> 
+> Soft and easily compressed.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Squishy**]{.underline}
 :::
 
 ## Question 10
 
-> 
+> Visually attractive, especially in a quaint or pretty style.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Picturesque**]{.underline}
 :::
 
 ## Celebrity Guessing Game Answer:
@@ -532,9 +532,9 @@ format:
 \
 
 ::: incremental
--   [****]{.underline}
+-   [**David Bowie**]{.underline}
 
-![](slides_files/celebs/){.absolute top="125" right="10"}
+![](slides_files/celebs/bowie.jpg){.absolute top="125" right="10"}
 :::
 
 # My Four Songs #2
