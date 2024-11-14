@@ -33,153 +33,153 @@ format:
 
 ## Question 1
 
-> 
+> The tallest building in the world is located in what city?
 
 ## Question 2
 
-> 
+> What is the official language of Brazil?
 
 ## Question 3
 
-> 
+> What U.S. city is known as "The Emerald City"?
 
 ## Question 4
 
-> 
+> For singers, which vocal range is pitched between tenor and bass?
 
 ## Question 5
 
-> 
+> Which element of the periodic table is named after the sun?
 
 ## Question 6
 
-> 
+> In what city did NBA star LeBron James play his high school basketball home games?
 
 ## Question 7
 
-> 
+> During his years-long crime spree, Ted Kaczynski was known by what pseudonym?
 
 ## Question 8
 
-> 
+> In the book of Genesis, which of the Jewish patriarchs wrestles with a mysterious man commonly believed to be God Himself?
 
 ## Question 9
 
-> 
+> How many strings does a typical violin have?
 
 ## Question 10
 
-> 
+> What does VHS (as in VHS tape) stand for?
 
 ## Celebrity Guessing Game #1 (3 points) {.smaller}
 
-> 
+> This London-born musical artist sold over 100 million records and won six Grammy Awards throughout their long career. So long was their career, in fact, that their earliest top five single came out in 1969, and their latest came out in 2016.
 
 # Round 1: Answers
 
 ## Question 1 
 
-> 
+> The tallest building in the world is located in what city?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Dubai, UAE**]{.underline}
 :::
 
 ## Question 2
 
-> 
+> What is the official language of Brazil?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Portuguese**]{.underline}
 :::
 
 ## Question 3
 
-> 
+> What U.S. city is known as "The Emerald City"?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Seattle, Washington**]{.underline}
 :::
 
 ## Question 4
 
-> 
+> For singers, which vocal range is pitched between tenor and bass?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Baritone**]{.underline}
 :::
 
 ## Question 5
 
-> 
+> Which element of the periodic table is named after the sun?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Helium**]{.underline}
 :::
 
 ## Question 6
 
-> 
+> In what city did NBA star LeBron James play his high school basketball home games?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Akron, Ohio**]{.underline}
 :::
 
 ## Question 7
 
-> 
+> During his years-long crime spree, Ted Kaczynski was known by what pseudonym?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**The Unabomber**]{.underline}
 :::
 
 ## Question 8
 
-> 
+> In the book of Genesis, which of the Jewish patriarchs wrestles with a mysterious man commonly believed to be God Himself?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Jacob**]{.underline}
 :::
 
 ## Question 9
 
-> 
+> How many strings does a typical violin have?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Four**]{.underline}
 :::
 
 ## Question 10
 
-> 
+> What does VHS (as in VHS tape) stand for?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Video Home System**]{.underline}
 :::
 
 # Music Break
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/The Black Eyed Peas - Where Is The Love.mp4"}
 
 <!-- Round 2 ------------------------------------------------------------------>
 
@@ -347,7 +347,7 @@ format:
 
 # My Four Songs #1
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/DMX - Ruff Ryders' Anthem.mp4"}
 
 <!-- Round 3 ------------------------------------------------------------------>
 
@@ -513,7 +513,7 @@ format:
 
 # My Four Songs #2
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/Brandy & Monica - The Boy Is Mine.mp4"}
 
 <!-- Round 4 ------------------------------------------------------------------>
 
@@ -559,7 +559,7 @@ format:
 
 ## Question 10
 
-> 
+> What year was the last U.S. presidential election in which Wisconsin, Michigan, and Pennsylvania did *not* all vote for the same candidate?
 
 # Round 4: Answers
 
@@ -655,17 +655,16 @@ format:
 
 ## Question 10
 
-> 
-
-\
+> What year was the last U.S. presidential election in which Wisconsin, Michigan, and Pennsylvania did *not* all vote for the same candidate?
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**1988**]{.underline}
+    -   Of the 3, Dukakis won only Wisconsin.
 :::
 
 # My Four Songs #3
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/Cher - Believe.mp4"}
 
 <!-- Round 5 ------------------------------------------------------------------>
 
@@ -815,7 +814,7 @@ format:
 
 # My Four Songs #4
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/Aaliyah - Are You That Somebody.mp4"}
 
 <!-- Round 6 ------------------------------------------------------------------>
 
@@ -841,22 +840,22 @@ format:
 
 ## My Four Songs:
 
--   Song #1: 
--   Song #2: 
--   Song #3: 
--   Song #4: 
+-   Song #1: *DMX* - Ruff Ryders' Anthem
+-   Song #2: *Brandy & Monica* - The Boy is Mine
+-   Song #3: *Cher* - Believe
+-   Song #4: *Aaliyah* - Are You That Somebody
 
 ## My Four Songs: The Hiden Link
 
 The thing that these four songs had in common was...
 
 ::: incremental
--   [****]{.underline}
+-   [**They were all released in 1998!**]{.underline}
 :::
 
 # Final Music Break
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/Will Smith - Gettin' Jiggy Wit It.mp4"}
 
 # Final Scores
 

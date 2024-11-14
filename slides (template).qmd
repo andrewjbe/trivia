@@ -395,6 +395,8 @@ format:
 
 > 
 
+## Celebrity Guessing Game
+
 ## Celebrity Guessing Game #3 (1 point) {.smaller}
 
 > 
@@ -839,10 +841,10 @@ format:
 
 ## My Four Songs:
 
--   Song #1: 
--   Song #2: 
--   Song #3: 
--   Song #4: 
+-   Song #1: **
+-   Song #2: **
+-   Song #3: **
+-   Song #4: **
 
 ## My Four Songs: The Hiden Link
 
