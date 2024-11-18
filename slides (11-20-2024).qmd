@@ -73,7 +73,7 @@ format:
 
 ## Celebrity Guessing Game #1 (3 points) {.smaller}
 
-> This London-born musical artist sold over 100 million records and won six Grammy Awards throughout their long career. So long was their career, in fact, that their earliest top five single came out in 1969, and their latest came out in 2016.
+> This London-born musical artist sold over 100 million records and won six Grammy Awards throughout their long career. So long was their career, in fact, that their earliest top five single came out in 1969, and their latest came out in 2016. They hold the distinction of being the best-selling vinyl artist of the 21st century.
 
 # Round 1: Answers
 
@@ -179,7 +179,7 @@ format:
 
 # Music Break
 
-##  {background-video="slides_files/videos/The Black Eyed Peas - Where Is The Love.mp4"}
+##  {background-video="slides_files/videos/Magdalena Bay - Top Dog.mp4"}
 
 <!-- Round 2 ------------------------------------------------------------------>
 
@@ -464,7 +464,7 @@ format:
 \
 
 ::: incremental
--   **Answer:** [**Squalid**]{.underline}
+-   **Answer:** [**Squalid / Squalor**]{.underline}
 :::
 
 ## Question 5
@@ -549,143 +549,141 @@ format:
 
 ## Question 1
 
-> 
+> What US state is known as the Evergreen State?
 
 ## Question 2
 
-> 
+> What is the name of the character whose skull Hamlet famously talks to in Shakespeare's *Hamlet*?
 
 ## Question 3
 
-> 
+> What three countries signed NAFTA in 1992?
 
 ## Question 4
 
-> 
+> Who is the longest-reigning monarch in documented history?
 
 ## Question 5
 
-> 
+> What team hit the most home runs in the 2024 MLB postseason?
 
 ## Question 6
 
-> 
+> On what peninsula would you find Catalonia?
 
 ## Question 7
 
-> 
+> What NBA team moved to Oklahoma City in 2008 to become the Thunder?
 
 ## Question 8
 
-> 
+> What does the "A" in DNA stand for?
 
 ## Question 9
 
-> 
+> What is the name of Hank Hill's dog in the TV show *King of the Hill*?
 
 ## Question 10
 
-> What year was the last U.S. presidential election in which Wisconsin, Michigan, and Pennsylvania did *not* all vote for the same candidate?
+> The popular hot sauce Sriracha is named after a city in what country?
 
 # Round 4: Answers
 
 ## Question 1
 
-> 
+> What US state is known as the Evergreen State?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Washington**]{.underline}
 :::
 
 ## Question 2
 
-> 
+> What is the name of the character whose skull Hamlet famously talks to in Shakespeare's *Hamlet*?
 
-\
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Yorick**]{.underline}
 :::
 
 ## Question 3
 
-> 
+> What two countries joined the USA in signing NAFTA in 1992?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Mexico & Canada**]{.underline}
 :::
 
 ## Question 4 
 
-> 
-
-\
+> Who is the longest-reigning monarch in documented history?
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Louis XIV of France (72 years, 110 days)**]{.underline}
+    -   Elizabeth II came in second, at 70 years 214 days.
 :::
 
 ## Question 5
 
-> 
+> What team hit the most home runs in the 2024 MLB postseason?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**The LA Dodgers**]{.underline}
 :::
 
 ## Question 6
 
-> 
+> On what peninsula would you find Catalonia?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**The Iberian Peninsula**]{.underline}
 :::
 
 ## Question 7
 
-> 
+> What NBA team moved to Oklahoma City in 2008 to become the Thunder?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**The Seattle Supersonics**]{.underline}
 :::
 
 ## Question 8
 
-> 
+> What does the "A" in DNA stand for?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Acid**]{.underline}
+    -   DNA stands for "Deoxyribonucleic Acid"
 :::
 
 ## Question 9
 
-> 
+> What is the name of Hank Hill's dog in the TV show *King of the Hill*?
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**Lady Bird**]{.underline}
 :::
 
 ## Question 10
 
-> What year was the last U.S. presidential election in which Wisconsin, Michigan, and Pennsylvania did *not* all vote for the same candidate?
+> The popular hot sauce Sriracha is named after a city in what country?
 
 ::: incremental
--   **Answer:** [**1988**]{.underline}
-    -   Of the 3, Dukakis won only Wisconsin.
+-   **Answer:** [**Thailand**]{.underline}
 :::
 
 # My Four Songs #3
@@ -694,148 +692,150 @@ format:
 
 <!-- Round 5 ------------------------------------------------------------------>
 
-# Round 5: **
+# Round 5: *Opening Lines*
+
+*I'll give you the opening line of a book, play, or movie, and you tell me what it's from!*
 
 ## Question 1
 
-> 
+> “Marley was dead: to begin with. “
 
 ## Question 2
 
-> 
+> "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
 
 ## Question 3
 
-> 
+> "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
 
 ## Question 4
 
-> 
+> "The story so far: in the beginning, the universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
 
 ## Question 5
 
-> 
+> "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since."
 
 ## Question 6
 
-> 
+> "We were somewhere around Barstow on the edge of the desert when the drugs began to take hold."
 
 ## Question 7
 
-> 
+> "Way out west there was the fella I wanna tell you about. Goes by the name of Jeff Lebowski."
 
 ## Question 8
 
-> 
+> "The world is changed. I feel it in the water. I feel it in the earth. I smell it in the air. Much that once was is lost; for none now live who remember it."
 
 ## Question 9
 
-> 
+> "Rosebud."
 
 ## Question 10
 
-> 
+> "I believe in America. America has made my fortune.
 
 # Round 5: Answers
 
 ## Question 1
 
-> 
+> “Marley was dead: to begin with. “
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"A Christmas Carol" by Charles Dickens**]{.underline}
 :::
 
 ## Question 2
 
-> 
+> "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"Pride and Prejudice" by Jane Austen**]{.underline}
 :::
 
 ## Question 3
 
-> 
+> "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"Metamorphosis" by Franz Kafka**]{.underline}
 :::
 
 ## Question 4
 
-> 
+> "The story so far: in the beginning, the universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"The Restaurant at the End of the Universe" by Douglas Adams**]{.underline}
 :::
 
 ## Question 5
 
-> 
+> "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since."
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"The Great Gatsby" by F. Scott Fitzgerald"**]{.underline}
 :::
 
 ## Question 6
 
-> 
+> "We were somewhere around Barstow on the edge of the desert when the drugs began to take hold."
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"Fear and Loathing in Las Vegas" by Hunter S. Thompson**]{.underline}
 :::
 
 ## Question 7
 
-> 
+> "Way out west there was the fella I wanna tell you about. Goes by the name of Jeff Lebowski."
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"The Big Lebowski", directed by Ethan and Joel Coen**]{.underline}
 :::
 
 ## Question 8
 
-> 
+> "The world is changed. I feel it in the water. I feel it in the earth. I smell it in the air. Much that once was is lost; for none now live who remember it."
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"The Fellowship of the Ring", directed by Peter Jackson**]{.underline}
 :::
 
 ## Question 9
 
-> 
+> "Rosebud."
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"Citizen Kane", directed by Orson Welles**]{.underline}
 :::
 
 ## Question 10
 
-> 
+> "I believe in America. America has made my fortune.
 
 \
 
 ::: incremental
--   **Answer:** [****]{.underline}
+-   **Answer:** [**"The Godfather", directed by Francis Ford Coppola**]{.underline}
 :::
 
 # My Four Songs #4
@@ -844,7 +844,9 @@ format:
 
 <!-- Round 6 ------------------------------------------------------------------>
 
-# Round 6: **
+# Round 6: 
+
+*Best Selling Video Games But You Forgot Your Glasses*
 
 ## 
 
