@@ -142,8 +142,6 @@ format:
 
 > Bluegrass legend Earl Scruggs popularized the three-finger "Scruggs style" for what instrument? 
 
-\
-
 ::: incremental
 -   **Answer:** [**The banjo**]{.underline}
 :::
@@ -197,7 +195,7 @@ format:
 
 # Music Break
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/The Black Eyed Peas - Where Is The Love.mp4"}
 
 <!-- Round 2 ------------------------------------------------------------------>
 
@@ -346,7 +344,7 @@ format:
 
 # Music Break 2
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/The Pharcyde - Drop.mp4"}
 
 <!-- Round 3 ------------------------------------------------------------------>
 
@@ -677,7 +675,9 @@ format:
 
 <!-- Round 5 ------------------------------------------------------------------>
 
-# Round 5: *The Ides of March Madness*
+# Round 5: 
+
+*The Ides of March Madness*
 
 ## Question 1
 
@@ -685,7 +685,7 @@ format:
 
 ## Question 2
 
-> Hell is empty, and all the Blue Devils are at what #1 seed from the ACC?
+> Hell is empty, and all the Blue Devils are *here*, at what #1 seed from the ACC?
 
 ## Question 3
 
@@ -693,11 +693,11 @@ format:
 
 ## Question 4
 
-> Cry havoc, and let slip the Eagles of War! But what SEC team do they play for?
+> Cry havoc, and let slip the *Eagles* of *War*! But what SEC team do they play for?
 
 ## Question 5
 
-> "Though this be March Madness, yet there is March Method in't" said Polonius when talking to whom? 
+> "Though this be March Madness, yet there is March Method in't" -- said Polonius when talking to whom? 
 
 ## Question 6
 
@@ -713,7 +713,7 @@ format:
 
 ## Question 9 {.smaller}
 
-> You just got fouled on a three point attempt! Can you correctly guess whether it's **TRUE** or **FALSE** that all 3/3 of these are real Shakespeare plays?
+> You just got fouled on a three point attempt! Can you go 3/3 from the line, and correctly guess whether it's **TRUE** or **FALSE** that all three of these are real Shakespeare plays?
 
 * "*The Tempest*"
 * "*The Comedy of Errors*"
@@ -721,7 +721,7 @@ format:
 
 ## Question 10
 
-> What Shakespeare play opens with the famous line "If music be the food of love, play on!" and shares its initials with the postal code of the home state of the "Volunteers"?
+> What the referee says after they blow their whistle to end a time out -- or, the missing words from the iconic opening line: "If music be the food of love, ____ ____!"
 
 # Round 5: Answers
 
@@ -729,15 +729,14 @@ format:
 
 > The mascot of what Big 10 team would be asked "Et tu, Brutus?"
 
-\
-
 ::: incremental
--   **Answer:** [**The Ohio State Buckeyes (OSU)**]{.underline}
+-   **Answer:** [**The Ohio State Buckeyes**]{.underline}
+    - "The fault, dear Brutus the Buckeye, is not in our stars, but in our bench."
 :::
 
 ## Question 2
 
-> Hell is empty, and all the Blue Devils are at what #1 seed from the ACC?
+> Hell is empty, and all the Blue Devils are *here*, at what #1 seed from the ACC?
 
 \
 
@@ -756,7 +755,7 @@ format:
 
 ## Question 4
 
-> Cry havoc, and let slip the Eagles of War! But what SEC team do they play for?
+> Cry havoc, and let slip the *Eagles* of *War*! But what SEC team do they play for?
 
 ::: incremental
 -   **Answer:** [**Auburn University**]{.underline}
@@ -764,7 +763,7 @@ format:
 
 ## Question 5
 
-> "Though this be March Madness, yet there is March Method in't" said Polonius when talking to whom? 
+> "Though this be March Madness, yet there is March Method in't" -- said Polonius when talking to whom? 
 
 \
 
@@ -798,7 +797,7 @@ format:
 
 ## Question 9 {.smaller}
 
->  You just got fouled on a three point attempt! Can you correctly guess whether it's **TRUE** or **FALSE** that all 3/3 of these are real Shakespeare plays?
+> You just got fouled on a three point attempt! Can you go 3/3 from the line, and correctly guess whether it's **TRUE** or **FALSE** that all three of these are real Shakespeare plays?
 
 * "*The Tempest*"
 * "*The Comedy of Errors*"
@@ -814,11 +813,11 @@ format:
 
 ## Question 10 {.smaller}
 
-> What Shakespeare play opens with the famous line "If music be the food of love, play on!" and shares its initials with the postal code of the home state of the "Volunteers"?
+> What the referee says after they blow their whistle to end a time out -- or, the missing words from the iconic opening line: "If music be the food of love, ____ ____!"
 
 ::: incremental
--   **Answer:** [**Twelfth Night**]{.underline}
-    - The University of *Tennessee's* (TN) sports teams are known as the Volunteers, or "Vols" for short.
+-   **Answer:** [**Play on!**]{.underline}
+    - This is the opening from one of Shakespeare's most famous rom-coms, *Twelfth Night*.
 :::
 
 # My Three Songs #3
@@ -872,7 +871,7 @@ All three songs were...
 
 # Final Music Break
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/The Roots - What They Do.mp4"}
 
 # Final Scores
 
