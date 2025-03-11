@@ -1,0 +1,879 @@
+---
+title: "BUNKER CLUB TRIVIA"
+author: "featuring guest host Andrew!"
+format: 
+  revealjs:
+    theme: [dark, slides_files/custom.scss]
+    logo: slides_files/www/bunker-logo.jpeg
+    title-slide-attributes:
+      data-background-image: slides_files/www/title-background.png
+---
+
+# Trivia Rules
+
+## How it Works {.smaller}
+
+-   It’s free to play!
+-   There are **6 rounds** with **10 questions** each.
+-   There are also 2 bonus games: **“Celebrity Guessing Game”** & **“My 3 Songs”**.
+-   You can double your points for a single round by employing your Wild Card!
+    -   The bonus does not includes either bonus game.
+-   Gift cards go to 1st, 2nd, and 3rd place teams!
+
+## Things You Can't Do
+
+\
+
+-   Please don’t use your phone or any other means to cheat.
+-   Please don’t shout out answers aloud!
+
+<!-- Round 1 ------------------------------------------------------------------>
+
+# Round 1: *General Knowledge*
+
+## Question 1
+
+> A kilowatt is a unit of power equal to how many watts?
+
+## Question 2
+
+> A "leghorn" is a breed of what animal?
+
+## Question 3
+
+> What aptly-named star is our sun’s closest neighbor?
+
+## Question 4
+
+> A phillumenist collects what?
+
+## Question 5
+
+> Bluegrass legend Earl Scruggs popularized the three-finger "Scruggs style" for what instrument? 
+
+## Question 6
+
+> Who sold more books:
+
+- Dr. Seuss,
+- Akira Toriyama,
+- Stephen King, or
+- Agatha Christie?
+
+## Question 7
+
+> What does the "s" in:
+>
+> `https://www.web.com` 
+>
+> stand for?
+
+## Question 8
+
+> What element has the lowest boiling point?
+
+## Question 9
+
+> Which of Bill Clinton's campaign strategists famously said "it's the economy, stupid!"
+
+## Question 10
+
+> It's a tradition to leave pennies atop what assassin's tombstone at Green Mount Cemetery in Baltimore?
+
+## Celebrity Guessing Game Rules: {.smaller}
+
+* I'm about to give you three clues about a mystery celebrity, one after each of the first three rounds.
+
+* If you can guess their identity after this first clue, write their name down on the back of your answer sheet. 
+    * If you're right, you'll get +3 bonus points!
+    
+## Celebrity Guessing Game Rules: {.smaller}
+
+* If you can't figure it out, wait until next round, and you'll get another clue. Answer it then, and you'll get +2 points.
+    * If you get it after the third clue in round 3, that's +1. 
+
+* Make sure you don't guess before you know for sure -- you only get one shot!
+
+## Celebrity Guessing Game #1 (3 points) {.smaller}
+
+> This NBA star from Long Beach, California boasts 9 All Star selections and led the league in either scoring or assists in five different seasons. He also holds the honor of being the global face of Mountain Dew "Kickstart". Who is he?
+
+# Round 1: Answers
+
+## Question 1 
+
+> A kilowatt is a unit of power equal to how many watts?
+
+\
+
+::: incremental
+-   **Answer:** [**1,000 watts**]{.underline}
+:::
+
+## Question 2
+
+> A "leghorn" is a breed of what animal?
+
+::: incremental
+-   **Answer:** [**Chicken**]{.underline}
+    - It's the English translation of "Livorno", the Italian port city where the breed was first exported.
+:::
+
+## Question 3
+
+> What aptly-named star is our sun’s closest neighbor?
+
+::: incremental
+-   **Answer:** [**Proxima Centauri**]{.underline}
+    - It's 4.2 light years away, which is like 25 trillion miles! Woah!
+:::
+
+## Question 4
+
+> A phillumenist collects what?
+
+\
+
+::: incremental
+-   **Answer:** [**Matchbooks**]{.underline}
+:::
+
+## Question 5
+
+> Bluegrass legend Earl Scruggs popularized the three-finger "Scruggs style" for what instrument? 
+
+\
+
+::: incremental
+-   **Answer:** [**The banjo**]{.underline}
+:::
+
+## Question 6 {.smaller}
+
+> Who sold more books: *Dr. Seuss*, *Akira Toriyama*, *Stephen King*, or *Agatha Christie*?
+
+::: incremental
+-   **Answer:** [**Agatha Christie**]{.underline}
+    - She's the second best selling author ever, not far behind Shakespeare! Woah!
+:::
+
+## Question 7
+
+> What does the "s" in `https://www.web.com` stand for?
+
+::: incremental
+-   **Answer:** [**Secure**]{.underline}
+    - HTTP stands for "Hypertext Transfer Protocol". Woah!
+:::
+
+## Question 8
+
+> What element has the lowest boiling point?
+
+::: incremental
+-   **Answer:** [**Helium**]{.underline}
+    - It boils at -452 degrees Fahrenheit! Woah!
+:::
+
+## Question 9
+
+> Which of Bill Clinton's campaign strategists famously said "it's the economy, stupid!"
+
+\
+
+::: incremental
+-   **Answer:** [**James Carville**]{.underline}
+:::
+
+## Question 10
+
+> It's a tradition to leave pennies atop what assassin's tombstone at Green Mount Cemetery in Baltimore?
+
+\
+
+::: incremental
+-   **Answer:** [**John Wilkes Booth**]{.underline}
+:::
+
+# Music Break
+
+##  {background-video="slides_files/videos/"}
+
+<!-- Round 2 ------------------------------------------------------------------>
+
+# Round 2: *Fictional Countries*
+
+## Question 1
+
+> In *The Princess Diaries* (2001), Anne Hathaway is whisked away to inherit the throne of what nonexistent European principality?
+
+## Question 2
+
+> What dystopian nation serves as the setting for George Orwell's *1984*?
+
+## Question 3
+
+> What post-apocalyptic Republic from the *Fallout* universe flies a flag featuring a two-headed bear?
+
+## Question 4
+
+> In *Lord of the Rings*, what country of Men is home to our friends Boromir and Faramir?
+
+## Question 5
+
+> What fictional country would you travel to if you were a *Marvel* character after some Vibranium?
+
+## Question 6
+
+> *Gulliver's Travels* took him to what country of tiny people?
+
+## Question 7
+
+> The city-state of Ankh-Morpork is the primary setting of what fantasy series by Terry Pratchett?
+
+## Question 8
+
+> The theocracy from Margaret Atwood's *The Handmaid's Tale* is named the Republic of what?
+
+## Question 9
+
+> In the world of *Avatar: The Last Airbender*, everything changed when what nation attacked?
+
+## Question 10
+
+> Which of the Seven Kingdoms in *Game of Thrones* is ruled by House Martell and is known for its hot climate and sandy deserts?
+
+## Celebrity Guessing Game #2 (2 points) {.smaller}
+
+> He's played for six different teams in the NBA since being drafted 4th overall in 2008, including the Rockets, the Lakers, and the Wizards. He's also had success off the court -- in 2021, he produced a documentary about the 1921 Tulsa race massacre that won three Primetime Emmys. Who is he?
+
+# Round 2: Answers
+
+## Question 1
+
+> In *The Princess Diaries* (2001), Anne Hathaway is whisked away to inherit the throne of what nonexistent European principality?
+
+::: incremental
+-   **Answer:** [**Genovia**]{.underline}
+:::
+
+## Question 2
+
+> What dystopian nation serves as the setting for George Orwell's *1984*?
+
+\
+
+::: incremental
+-   **Answer:** [**Oceania**]{.underline}
+:::
+
+## Question 3
+
+> What post-apocalyptic Republic from the *Fallout* universe flies a flag featuring a two-headed bear?
+
+::: incremental
+-   **Answer:** [**The New California Republic (NCR)**]{.underline}
+:::
+
+## Question 4
+
+> In *Lord of the Rings*, what country of Men is home to our friends Boromir and Faramir?
+
+\
+
+::: incremental
+-   **Answer:** [**Gondor**]{.underline}
+:::
+
+## Question 5
+
+> What fictional country would you travel to if you were a *Marvel* character after some Vibranium?
+
+\
+
+::: incremental
+-   **Answer:** [**Wakanda**]{.underline}
+:::
+
+## Question 6
+
+> *Gulliver's Travels* took him to what country of tiny people?
+
+\
+
+::: incremental
+-   **Answer:** [**Lilliput**]{.underline}
+:::
+
+## Question 7
+
+> The city-state of Ankh-Morpork is the primary setting of what fantasy series by Terry Pratchett?
+
+\
+
+::: incremental
+-   **Answer:** [**Discworld**]{.underline}  
+:::
+
+## Question 8
+
+> The theocracy from Margaret Atwood's *The Handmaid's Tale* is named the Republic of what?
+
+\
+
+::: incremental
+-   **Answer:** [**Gilead**]{.underline}
+:::
+
+## Question 9
+
+> In the world of *Avatar: The Last Airbender*, everything changed when what nation attacked?
+
+\
+
+::: incremental
+-   **Answer:** [**The Fire Nation**]{.underline}
+    
+:::
+
+## Question 10
+
+> Which of the Seven Kingdoms in *Game of Thrones* is ruled by House Martell and is known for its hot climate and sandy deserts?
+
+::: incremental
+-   **Answer:** [**Dorne**]{.underline}
+:::
+
+# Music Break 2
+
+##  {background-video="slides_files/videos/"}
+
+<!-- Round 3 ------------------------------------------------------------------>
+
+# Round 3: *Veginnings*
+
+> **Crossword Round**
+>
+> *(all answers start with a "V")*
+
+## Question 1
+
+> Part of a bride's ensemble
+
+## Question 2
+
+> Student speechmaker at graduation
+
+## Question 3
+
+> A peeping Tom
+
+## Question 4
+
+> Ear-splitting World Cup noisemaker
+
+## Question 5
+
+> Straight up & down
+
+## Question 6
+
+> A super-strict vegetarian
+
+## Question 7
+
+> By way of
+
+## Question 8
+
+> Orchid with a tasty bean
+
+## Question 9
+
+> To clear someone of blame
+
+## Question 10
+
+> Like a fox
+
+## Celebrity Guessing Game #3 (1 point) {.smaller}
+
+> During his MVP season as a member of the Oklahoma City Thunder in 2016-17, he famously averaged a triple double throughout the entire year. He now plays for the Denver Nuggets, but still proudly calls Oklahoma City his home. Who is he?
+
+# Round 3: Answers
+
+## Question 1
+
+> Part of a bride's ensemble
+
+\
+
+::: incremental
+-   **Answer:** [**Veil**]{.underline}
+:::
+
+## Question 2
+
+> Student speechmaker at graduation
+
+\
+
+::: incremental
+-   **Answer:** [**Valedictorian**]{.underline}
+:::
+
+## Question 3
+
+> A peeping Tom
+
+\
+
+::: incremental
+-   **Answer:** [**Voyeur**]{.underline}
+:::
+
+## Question 4
+
+> Ear-splitting World Cup noisemaker
+
+\
+
+::: incremental
+-   **Answer:** [**Vuvuzela**]{.underline}
+:::
+
+## Question 5
+
+> Straight up & down
+
+\
+
+::: incremental
+-   **Answer:** [**Vertical**]{.underline}
+:::
+
+## Question 6
+
+> A super-strict vegetarian
+
+\
+
+::: incremental
+-   **Answer:** [**Vegan**]{.underline}
+:::
+
+## Question 7
+
+> By way of
+
+\
+
+::: incremental
+-   **Answer:** [**Via**]{.underline}
+:::
+
+## Question 8
+
+> Orchid with a tasty bean
+
+\
+
+::: incremental
+-   **Answer:** [**Vanilla**]{.underline}
+:::
+
+## Question 9
+
+> To clear someone of blame
+
+\
+
+::: incremental
+-   **Answer:** [**Vindicate**]{.underline}
+:::
+
+## Question 10
+
+> Like a fox
+
+\
+
+::: incremental
+-   **Answer:** [**Vulpine**]{.underline}
+:::
+
+## Celebrity Guessing Game Answer:
+
+\
+
+::: incremental
+-   [**Russel Westbrook**]{.underline}
+
+![](slides_files/celebs/russ.jpg){.absolute top="125" right="10"}
+:::
+
+# My Three Songs
+
+## My Three Songs: Rules {.smaller}
+
+-   The next three music videos have something in common.
+
+-   You can use your phone or whatever else to identify the song and find the commonality -- just make sure it's only in between rounds.
+
+-   After the final song, you'll write your guess as to what the songs have in common on the back of your picture round answer sheet.
+
+-   If you get it right, you'll get +3 bonus points!
+
+    -   Remember this can't be doubled by the Wild Card.
+    
+# My Three Songs #1
+
+##  {background-video="slides_files/videos/"}
+
+<!-- Round 4 ------------------------------------------------------------------>
+
+# Halftime Standings
+
+# Round 4: *General Knowledge II*
+
+## Question 1
+
+> What French fashion term roughly translates as "high dressmaking" or "high sewing"?
+
+## Question 2
+
+> What U.S. state is closest to the coast of Africa?
+
+## Question 3
+
+> Aside from the *New England* Patriots and the *Carolina* Panthers, what other NFL team is not named after a city or a state?
+
+## Question 4
+
+> On the original 1996 version of the game *Bop It!*, what were the other two commands besides the titular "Bop it!"?
+
+## Question 5
+
+> Across all four of the biggest U.S. sports leagues (the MLB, NBA, NFL, and NHL), what U.S. city boasts the most total championships?
+
+## Question 6
+
+> In what Jane Austen novel does Wentworth write a love letter to Anne Elliot while she sits just a few feet away from him?
+
+## Question 7
+
+> In what decade did a chess world champion lose to a computer in match play for the first time?
+
+## Question 8
+
+> What television soap opera celebrated its 15,000th episode on Monday, December 2, 2024?
+
+## Question 9
+
+> Winston Churchill was the Prime Minister of the U.K. when Queen Elizabeth took the throne. Who was the Prime Minister when she died?
+
+## Question 10
+
+> How many *kilometers* are in a traditional marathon race?
+
+# Round 4: Answers
+
+## Question 1
+
+> What French fashion term roughly translates as "high dressmaking" or "high sewing"?
+
+\
+
+::: incremental
+-   **Answer:** [**Haute couture**]{.underline}
+:::
+
+## Question 2
+
+> What U.S. state is closest to the coast of Africa?
+
+\
+
+::: incremental
+-   **Answer:** [**Maine**]{.underline}
+:::
+
+## Question 3 {.smaller}
+
+> Aside from the *New England* Patriots and the *Carolina* Panthers, what other NFL team is not named after a city or a state?
+
+::: incremental
+-   **Answer:** [**The Tampa Bay Buccaneers**]{.underline}
+    - The Washington Commanders are also a little ambiguous, so I'll accept that too if you put it down.
+:::
+
+## Question 4 
+
+> On the original 1996 version of the game *Bop It!*, what were the other two commands besides the titular "Bop it!"?
+
+::: incremental
+-   **Answer:** [**"Twist it!" / "Pull it!"**]{.underline}
+:::
+
+## Question 5 {.smaller}
+
+> Across all four of the biggest U.S. sports leagues (the MLB, NBA, NFL, and NHL), what U.S. city boasts the most total championships?
+
+::: incremental
+-   **Answer:** [**New York City**]{.underline}
+    - They have 54 total, 35 of which come from baseball.
+    - Boston is #2 with 40, and Chicago is third with 29.
+:::
+
+## Question 6
+
+> In what Jane Austen novel does Wentworth write a love letter to Anne Elliot while she sits just a few feet away from him?
+
+::: incremental
+-   **Answer:** [**Persuasion**]{.underline}
+:::
+
+## Question 7
+
+> In what decade did a chess world champion lose to a computer in match play for the first time?
+
+::: incremental
+-   **Answer:** [**The 1990s**]{.underline}
+    - Garry Kasparov was defeated by IBM's Deep Blue in 1997.
+:::
+
+## Question 8
+
+> What television soap opera celebrated its 15,000th episode on Monday, December 2, 2024?
+
+\
+
+::: incremental
+-   **Answer:** [**Days of Our Lives**]{.underline}
+:::
+
+## Question 9 {.smaller}
+
+> Winston Churchill was the Prime Minister of the U.K. when Queen Elizabeth took the throne. Who was the Prime Minister when she died?
+
+::: incremental
+-   **Answer:** [**Liz Truss**]{.underline}
+    - She was in office for less than 50 days, but managed to become one of the most unpopular PMs in history. 
+    - In October of 2022 once poll recorded her approval rating at 9%. Yikes!
+:::
+
+## Question 10
+
+> How many *kilometers* are in a traditional marathon race?
+
+::: incremental
+-   **Answer:** [**42.195**]{.underline}
+    - Don't worry, if you were within 1, I rounded it in your favor.
+:::
+
+# My Three Songs #2
+
+##  {background-video="slides_files/videos/"}
+
+<!-- Round 5 ------------------------------------------------------------------>
+
+# Round 5: *The Ides of March Madness*
+
+## Question 1
+
+> The mascot of what Big 10 team would be asked "Et tu, Brutus?"
+
+## Question 2
+
+> Hell is empty, and all the Blue Devils are at what #1 seed from the ACC?
+
+## Question 3
+
+> Which of Shakespeare's plays featured a character who might exclaim "Lord, what fools these refs be!" while watching the big game?
+
+## Question 4
+
+> Cry havoc, and let slip the Eagles of War! But what SEC team do they play for?
+
+## Question 5
+
+> "Though this be March Madness, yet there is March Method in't" said Polonius when talking to whom? 
+
+## Question 6
+
+> Basketball may have highlight dunks with buzzer-beater ends, but what Shakespeare play features violent delights with violent ends?
+
+## Question 7
+
+> By the prickling of my thumbs, something *Aggie* this way comes. Oh no, it's an SEC team! But which one is it?
+
+## Question 8
+
+> Brevity is the Soul of Wit, but what Big 12 team was the School of Wilt (Chamberlain, the NBA's legendary "Big Dipper")?
+
+## Question 9 {.smaller}
+
+> You just got fouled on a three point attempt! Can you correctly guess whether it's **TRUE** or **FALSE** that all 3/3 of these are real Shakespeare plays?
+
+* "*The Tempest*"
+* "*The Comedy of Errors*"
+* "*The Fool of Venice*"
+
+## Question 10
+
+> What Shakespeare play opens with the famous line "If music be the food of love, play on!" and shares its initials with the postal code of the home state of the "Volunteers"?
+
+# Round 5: Answers
+
+## Question 1
+
+> The mascot of what Big 10 team would be asked "Et tu, Brutus?"
+
+\
+
+::: incremental
+-   **Answer:** [**The Ohio State Buckeyes (OSU)**]{.underline}
+:::
+
+## Question 2
+
+> Hell is empty, and all the Blue Devils are at what #1 seed from the ACC?
+
+\
+
+::: incremental
+-   **Answer:** [**The Duke Blue Devils**]{.underline}
+:::
+
+## Question 3 {.smaller}
+
+> Which of Shakespeare's plays featured a character who might exclaim "Lord, what fools these refs be!" while watching the big game?
+
+::: incremental
+-   **Answer:** [**A Midsummer Night's Dream**]{.underline}
+    - That character, of course, is Puck, and he's right about the refs.
+:::
+
+## Question 4
+
+> Cry havoc, and let slip the Eagles of War! But what SEC team do they play for?
+
+::: incremental
+-   **Answer:** [**Auburn University**]{.underline}
+:::
+
+## Question 5
+
+> "Though this be March Madness, yet there is March Method in't" said Polonius when talking to whom? 
+
+\
+
+::: incremental
+-   **Answer:** [**Hamlet**]{.underline}
+:::
+
+## Question 6
+
+> Basketball may have highlight dunks with buzzer-beater ends, but what Shakespeare play features violent delights with violent ends?
+
+::: incremental
+-   **Answer:** [**Romeo and Juliet**]{.underline}
+:::
+
+## Question 7
+
+> By the prickling of my thumbs, something *Aggie* this way comes. Oh no, it's an SEC team! But which one is it?
+
+::: incremental
+-   **Answer:** [**Texas A&M**]{.underline}
+:::
+
+## Question 8
+
+> Brevity is the Soul of Wit, but what Big 12 team was the School of Wilt (Chamberlain, the NBA's legendary "Big Dipper")?
+
+::: incremental
+-   **Answer:** [**The University of Kansas (KU)**]{.underline}
+:::
+
+## Question 9 {.smaller}
+
+>  You just got fouled on a three point attempt! Can you correctly guess whether it's **TRUE** or **FALSE** that all 3/3 of these are real Shakespeare plays?
+
+* "*The Tempest*"
+* "*The Comedy of Errors*"
+* "*The Fool of Venice*"
+
+## Question 9 {.smaller}
+
+>  You just got fouled on a three point attempt! Can you correctly guess whether it's **TRUE** or **FALSE** that all 3/3 of these are real Shakespeare plays?
+
+-   **Answer:** [**FALSE**]{.underline}
+    - *"The [Merchant]{.underline} of Venice"* is a real play, as are *"The Tempest"* and *"The Comedy of Errors"*. 
+
+
+## Question 10 {.smaller}
+
+> What Shakespeare play opens with the famous line "If music be the food of love, play on!" and shares its initials with the postal code of the home state of the "Volunteers"?
+
+::: incremental
+-   **Answer:** [**Twelfth Night**]{.underline}
+    - The University of *Tennessee's* (TN) sports teams are known as the Volunteers, or "Vols" for short.
+:::
+
+# My Three Songs #3
+
+##  {background-video="slides_files/videos/"}
+
+<!-- Round 6 ------------------------------------------------------------------>
+
+# Round 6: **
+
+## 
+
+![](slides_files/picture-rounds/){fig-align="center"}
+
+*Be sure to write your "My Three Songs" answer on the back!*
+
+# Round 6: Answers
+
+## 
+
+![](slides_files/picture-rounds/){fig-align="center"}
+
+# My Three Songs:
+
+*Secrets Revealed*
+
+## My Three Songs:
+
+-   Song #1: **
+-   Song #2: **
+-   Song #3: **
+-   Song #4: **
+
+## My Three Songs: The Hiden Link
+
+The thing that these four songs had in common was...
+
+::: incremental
+-   [****]{.underline}
+:::
+
+# Final Music Break
+
+##  {background-video="slides_files/videos/"}
+
+# Final Scores
+
+## Prizes
+
+-   **1st Place**: a [**\$50 Gift Card**]{.underline}. You're the Trivia Champs! Congrats!
+-   **2nd Place**: a [**\$30 Gift Card**]{.underline}. You fought valiantly! Well done!
+-   **3rd Place**: a [**\$15 Gift Card**]{.underline}. Hey, it's \$15! Not bad!
+
+# Thanks for playing!!
+
+*Tip your bartenders!*
+
+![](slides_files/www/skeleton.png){.absolute top="10" right="5"}
