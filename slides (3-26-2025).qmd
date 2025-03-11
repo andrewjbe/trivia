@@ -596,6 +596,12 @@ format:
 -   **Answer:** [**Maine**]{.underline}
 :::
 
+## Question 2
+
+> What U.S. state is closest to the coast of Africa?
+
+![](slides_files/www/maine.png){fig-align="center"}
+
 ## Question 3 {.smaller}
 
 > Aside from the *New England* Patriots and the *Carolina* Panthers, what other NFL team is not named after a city or a state?
