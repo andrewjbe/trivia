@@ -528,7 +528,7 @@ format:
     
 # My Three Songs #1
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/Guns N Roses - Sweet Child O Mine.mp4"}
 
 <!-- Round 4 ------------------------------------------------------------------>
 
@@ -673,7 +673,7 @@ format:
 
 # My Three Songs #2
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/Kate Bush - Running Up That Hill.mp4"}
 
 <!-- Round 5 ------------------------------------------------------------------>
 
@@ -823,23 +823,29 @@ format:
 
 # My Three Songs #3
 
-##  {background-video="slides_files/videos/"}
+##  {background-video="slides_files/videos/Led Zeppelin - Whole Lotta Love.mp4"}
 
 <!-- Round 6 ------------------------------------------------------------------>
 
-# Round 6: **
+# Round 6: Picture Round
 
-## 
+*Art of the 1900s, by the decade*
 
-![](slides_files/picture-rounds/){fig-align="center"}
+##
 
-*Be sure to write your "My Three Songs" answer on the back!*
+![](slides_files/picture-rounds/pic round - art of the 1900s by the decade - slide.png){fig-align="center"}
+
+:::{style="font-size:50%"}
+* *Note: in this round, I'm counting the year 1950 as being in the 1950s, etc.*
+
+* *Be sure to write your "My Three Songs" answer on the back!*
+:::
 
 # Round 6: Answers
 
 ## 
 
-![](slides_files/picture-rounds/){fig-align="center"}
+![](slides_files/picture-rounds/pic round - art of the 1900s by the decade - answer slide.png){fig-align="center"}
 
 # My Three Songs:
 
@@ -847,17 +853,21 @@ format:
 
 ## My Three Songs:
 
--   Song #1: **
--   Song #2: **
--   Song #3: **
--   Song #4: **
+:::{style="font-size:90%"}
+
+-   Song #1: *Guns N' Roses -- Sweet Child O' Mine*
+-   Song #2: *Kate Bush -- Running Up That Hill*
+-   Song #3: *Led Zeppelin -- Whole Lotta Love*
+
+:::
 
 ## My Three Songs: The Hiden Link
 
-The thing that these four songs had in common was...
+All three songs were...
 
 ::: incremental
--   [****]{.underline}
+-   [**...songs sung by people named after plants!**]{.underline}
+    - **Axl Rose**, **Kate Bush**, and **Robert Plant** were the vocalists.
 :::
 
 # Final Music Break
