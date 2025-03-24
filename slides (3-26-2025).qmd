@@ -15,7 +15,7 @@ format:
 
 -   It’s free to play!
 -   There are **6 rounds** with **10 questions** each.
--   There are also 2 bonus games: **“Celebrity Guessing Game”** & **“My 3 Songs”**.
+-   There are also 2 bonus games: **“Celebrity Guessing Game”** & **“My 4 Songs”**.
 -   You can double your points for a single round by employing your Wild Card!
     -   The bonus does not includes either bonus game.
 -   Gift cards go to 1st, 2nd, and 3rd place teams!
@@ -41,7 +41,7 @@ format:
 
 ## Question 3
 
-> What aptly-named star is our sun’s closest neighbor?
+> Fill in the blank: the closest star to our own sun is, appropriately, named "______ Centauri".
 
 ## Question 4
 
@@ -55,18 +55,14 @@ format:
 
 > Who sold more books:
 
-- Dr. Seuss,
-- Akira Toriyama,
-- Stephen King, or
-- Agatha Christie?
+- *Dr. Seuss*,
+- *Akira Toriyama*,
+- *Stephen King*, or
+- *Agatha Christie*?
 
 ## Question 7
 
-> What does the "s" in:
->
-> `https://www.web.com` 
->
-> stand for?
+> What is the state bird of Oklahoma?
 
 ## Question 8
 
@@ -96,7 +92,7 @@ format:
 
 ## Celebrity Guessing Game #1 (3 points) {.smaller}
 
-> This NBA star from Long Beach, California boasts 9 All Star selections and led the league in either scoring or assists in five different seasons. He also holds the honor of being the global face of Mountain Dew "Kickstart". Who is he?
+> This NBA star from Long Beach, California boasts 9 All Star selections and led the league in either scoring or assists in five different seasons. He also briefly reigned as the spokesman of Mountain Dew Kickstart*(TM)* from 2015-2018. Who is he?
 
 # Round 1: Answers
 
@@ -121,7 +117,7 @@ format:
 
 ## Question 3
 
-> What aptly-named star is our sun’s closest neighbor?
+> Fill in the blank: the closest star to our own sun is, appropriately, named "______ Centauri".
 
 ::: incremental
 -   **Answer:** [**Proxima Centauri**]{.underline}
@@ -157,11 +153,10 @@ format:
 
 ## Question 7
 
-> What does the "s" in `https://www.web.com` stand for?
+> What is the state bird of Oklahoma?
 
 ::: incremental
--   **Answer:** [**Secure**]{.underline}
-    - HTTP stands for "Hypertext Transfer Protocol". Woah!
+-   **Answer:** [**The scissor-tailed flycatcher**]{.underline}
 :::
 
 ## Question 8
@@ -195,7 +190,7 @@ format:
 
 # Music Break
 
-##  {background-video="slides_files/videos/The Black Eyed Peas - Where Is The Love.mp4"}
+##  {background-video="slides_files/videos/The Pharcyde - Drop.mp4"}
 
 <!-- Round 2 ------------------------------------------------------------------>
 
@@ -342,9 +337,23 @@ format:
 -   **Answer:** [**Dorne**]{.underline}
 :::
 
-# Music Break 2
+# My Four Songs
 
-##  {background-video="slides_files/videos/The Pharcyde - Drop.mp4"}
+## My Four Songs: Rules {.smaller}
+
+-   The next four music videos have something in common.
+
+-   You can use your phone or whatever else to identify the song and find the commonality -- just make sure it's only in between rounds.
+
+-   After the final song, you'll write your guess as to what the songs have in common on the back of your picture round answer sheet.
+
+-   If you get it right, you'll get +3 bonus points!
+
+    -   Remember this can't be doubled by the Wild Card.
+    
+# My Four Songs #1
+
+##  {background-video="slides_files/videos/Fiona Apple - Paper Bag.mp4"}
 
 <!-- Round 3 ------------------------------------------------------------------>
 
@@ -372,11 +381,11 @@ format:
 
 ## Question 5
 
-> Straight up & down
+> Bat man
 
 ## Question 6
 
-> A super-strict vegetarian
+> A, B, C, D, or K, for example
 
 ## Question 7
 
@@ -442,22 +451,22 @@ format:
 
 ## Question 5
 
-> Straight up & down
+> Bat man
 
 \
 
 ::: incremental
--   **Answer:** [**Vertical**]{.underline}
+-   **Answer:** [**Vampire**]{.underline}
 :::
 
 ## Question 6
 
-> A super-strict vegetarian
+> A, B, C, D, or K, for example
 
 \
 
 ::: incremental
--   **Answer:** [**Vegan**]{.underline}
+-   **Answer:** [**Vitamins**]{.underline}
 :::
 
 ## Question 7
@@ -509,24 +518,10 @@ format:
 
 ![](slides_files/celebs/russ.jpg){.absolute top="125" right="10"}
 :::
-
-# My Three Songs
-
-## My Three Songs: Rules {.smaller}
-
--   The next three music videos have something in common.
-
--   You can use your phone or whatever else to identify the song and find the commonality -- just make sure it's only in between rounds.
-
--   After the final song, you'll write your guess as to what the songs have in common on the back of your picture round answer sheet.
-
--   If you get it right, you'll get +3 bonus points!
-
-    -   Remember this can't be doubled by the Wild Card.
     
-# My Three Songs #1
+# My Four Songs #2
 
-##  {background-video="slides_files/videos/Guns N Roses - Sweet Child O Mine.mp4"}
+##  {background-video="slides_files/videos/The Killers - Mr. Brightside.mp4"}
 
 <!-- Round 4 ------------------------------------------------------------------>
 
@@ -556,7 +551,7 @@ format:
 
 ## Question 6
 
-> In what Jane Austen novel does Wentworth write a love letter to Anne Elliot while she sits just a few feet away from him?
+> In what Jane Austen novel does Captain Wentworth write a famous love letter to protagonist Anne Elliot?
 
 ## Question 7
 
@@ -564,7 +559,7 @@ format:
 
 ## Question 8
 
-> What television soap opera celebrated its 15,000th episode on Monday, December 2, 2024?
+> What band wrote a song called "One Week", which stayed at number one on the *Billboard* charts for exactly one week in 1998?
 
 ## Question 9
 
@@ -572,7 +567,7 @@ format:
 
 ## Question 10
 
-> How many *kilometers* are in a traditional marathon race?
+> How many miles are in a traditional marathon race?
 
 # Round 4: Answers
 
@@ -631,7 +626,7 @@ format:
 
 ## Question 6
 
-> In what Jane Austen novel does Wentworth write a love letter to Anne Elliot while she sits just a few feet away from him?
+> In what Jane Austen novel does Captain Wentworth write a famous love letter to protagonist Anne Elliot?
 
 ::: incremental
 -   **Answer:** [**Persuasion**]{.underline}
@@ -648,12 +643,10 @@ format:
 
 ## Question 8
 
-> What television soap opera celebrated its 15,000th episode on Monday, December 2, 2024?
-
-\
+> What band wrote a song called "One Week", which stayed at number one on the *Billboard* charts for exactly one week in 1998?
 
 ::: incremental
--   **Answer:** [**Days of Our Lives**]{.underline}
+-   **Answer:** [**Barenaked Ladies**]{.underline}
 :::
 
 ## Question 9 {.smaller}
@@ -668,42 +661,41 @@ format:
 
 ## Question 10
 
-> How many *kilometers* are in a traditional marathon race?
+> How many miles are in a traditional marathon race?
 
 ::: incremental
--   **Answer:** [**42.195**]{.underline}
-    - Don't worry, if you were within 1, I rounded it in your favor.
+-   **Answer:** [**26.2 miles**]{.underline}
 :::
 
-# My Three Songs #2
+# My Four Songs #3
 
-##  {background-video="slides_files/videos/Kate Bush - Running Up That Hill.mp4"}
+##  {background-video="slides_files/videos/Led Zeppelin - Whole Lotta Love.mp4"}
 
 <!-- Round 5 ------------------------------------------------------------------>
 
 # Round 5: 
 
-*The Ides of March Madness*
+*Beware The Ides of March Madness*
 
 ## Question 1
 
-> The mascot of what Big 10 team would be asked "Et tu, Brutus?"
+> The mascot of [what Big 10 team]{.underline} (which earned a \#4 seed in this year's NCAAW tournament) could be asked "Et tu, Brutus the Buckeye?"
 
 ## Question 2
 
-> Hell is empty, and all the Blue Devils are *here*, at what #1 seed from the ACC?
+> Hell is empty, and all the Blue Devils are *here*, at what NCAAM #1 seed from the ACC?
 
 ## Question 3
 
-> Which of Shakespeare's plays featured a character who might exclaim "Lord, what fools these refs be!" while watching the big game?
+> What character from Shakespeare's *"A Midsummer Night's Dream"* might exclaim "Lord, what fools these refs be!" while watching the big game?
 
 ## Question 4
 
-> Cry havoc, and let slip the *Eagles* of *War*! But what SEC team do they play for?
+> Cry havoc, and let slip the [Eagles]{.underline} of [War]{.underline}! But what \#1 seeded team from the SEC do they play for?
 
 ## Question 5
 
-> "Though this be March Madness, yet there is March Method in't" -- said Polonius when talking to whom? 
+> "Though this be March Madness, yet there is March Method in't" -- said Polonius when talking to [whom]{.underline}? 
 
 ## Question 6
 
@@ -711,11 +703,11 @@ format:
 
 ## Question 7
 
-> By the prickling of my thumbs, something *Aggie* this way comes. Oh no, it's an SEC team! But which one is it?
+> By the prickling of my thumbs, the defending champion this way comes! For the men that's UCONN, but who won last year's NCAAW tournament?
 
 ## Question 8
 
-> Brevity is the Soul of Wit, but what Big 12 team was the School of Wilt (Chamberlain, the NBA's legendary "Big Dipper")?
+> Brevity may be the soul of wit, but what Big 12 team was the School of Wilt (Chamberlain, the NBA's legendary "Big Dipper")?
 
 ## Question 9 {.smaller}
 
@@ -727,22 +719,22 @@ format:
 
 ## Question 10
 
-> What the referee says after they blow their whistle to end a time out -- or, the missing words from the iconic opening line: "If music be the food of love, ____ ____!"
+> What the referee says after they blow their whistle to end a time out -- or, the missing words from one of Shakespeare's most iconic opening lines : "If music be the food of love, ____ ____!"
 
 # Round 5: Answers
 
-## Question 1
+## Question 1 {.smaller}
 
-> The mascot of what Big 10 team would be asked "Et tu, Brutus?"
+> The mascot of [what Big 10 team]{.underline} (which earned a \#4 seed in this year's NCAAW tournament) could be asked "Et tu, Brutus the Buckeye?"
 
 ::: incremental
 -   **Answer:** [**The Ohio State Buckeyes**]{.underline}
-    - "The fault, dear Brutus the Buckeye, is not in our stars, but in our bench."
+    - After their loss on Sunday, their coach reportedly told the mascot "The fault, dear Brutus, is not in our stars, but in our bench."
 :::
 
 ## Question 2
 
-> Hell is empty, and all the Blue Devils are *here*, at what #1 seed from the ACC?
+> Hell is empty, and all the Blue Devils are *here*, at what NCAAM #1 seed from the ACC?
 
 \
 
@@ -750,18 +742,17 @@ format:
 -   **Answer:** [**The Duke Blue Devils**]{.underline}
 :::
 
-## Question 3 {.smaller}
+## Question 3 
 
-> Which of Shakespeare's plays featured a character who might exclaim "Lord, what fools these refs be!" while watching the big game?
+> What character from Shakespeare's *"A Midsummer Night's Dream"* might exclaim "Lord, what fools these refs be!" while watching the big game?
 
 ::: incremental
--   **Answer:** [**A Midsummer Night's Dream**]{.underline}
-    - That character, of course, is Puck, and he's right about the refs.
+-   **Answer:** [**Puck**]{.underline}
 :::
 
 ## Question 4
 
-> Cry havoc, and let slip the *Eagles* of *War*! But what SEC team do they play for?
+> Cry havoc, and let slip the [Eagles]{.underline} of [War]{.underline}! But what \#1 seeded team from the SEC do they play for?
 
 ::: incremental
 -   **Answer:** [**Auburn University**]{.underline}
@@ -769,7 +760,7 @@ format:
 
 ## Question 5
 
-> "Though this be March Madness, yet there is March Method in't" -- said Polonius when talking to whom? 
+> "Though this be March Madness, yet there is March Method in't" -- said Polonius when talking to [whom]{.underline}? 
 
 \
 
@@ -785,17 +776,18 @@ format:
 -   **Answer:** [**Romeo and Juliet**]{.underline}
 :::
 
-## Question 7
+## Question 7 {.smaller}
 
-> By the prickling of my thumbs, something *Aggie* this way comes. Oh no, it's an SEC team! But which one is it?
+> By the prickling of my thumbs, the defending champion this way comes! For the men that's UCONN, but who won last year's NCAAW tournament?
 
 ::: incremental
--   **Answer:** [**Texas A&M**]{.underline}
+-   **Answer:** [**The South Carolina Gamecocks**]{.underline}
+    - Both the Gamecocks (3-0) and the Huskies (6-0) have undefeated records in title games.
 :::
 
 ## Question 8
 
-> Brevity is the Soul of Wit, but what Big 12 team was the School of Wilt (Chamberlain, the NBA's legendary "Big Dipper")?
+> Brevity may be the soul of wit, but what Big 12 team was the School of Wilt (Chamberlain, the NBA's legendary "Big Dipper")?
 
 ::: incremental
 -   **Answer:** [**The University of Kansas (KU)**]{.underline}
@@ -811,7 +803,7 @@ format:
 
 ## Question 9 {.smaller}
 
->  You just got fouled on a three point attempt! Can you correctly guess whether it's **TRUE** or **FALSE** that all 3/3 of these are real Shakespeare plays?
+> You just got fouled on a three point attempt! Can you go 3/3 from the line, and correctly guess whether it's **TRUE** or **FALSE** that all three of these are real Shakespeare plays?
 
 -   **Answer:** [**FALSE**]{.underline}
     - *"The [Merchant]{.underline} of Venice"* is a real play, as are *"The Tempest"* and *"The Comedy of Errors"*. 
@@ -819,16 +811,16 @@ format:
 
 ## Question 10 {.smaller}
 
-> What the referee says after they blow their whistle to end a time out -- or, the missing words from the iconic opening line: "If music be the food of love, ____ ____!"
+> What the referee says after they blow their whistle to end a time out -- or, the missing words from one of Shakespeare's most iconic opening lines : "If music be the food of love, ____ ____!"
 
 ::: incremental
 -   **Answer:** [**Play on!**]{.underline}
-    - This is the opening from one of Shakespeare's most famous rom-coms, *Twelfth Night*.
+    - This is the opening from one of Shakespeare's most famous rom-coms, *"Twelfth Night"*.
 :::
 
-# My Three Songs #3
+# My Four Songs #4
 
-##  {background-video="slides_files/videos/Led Zeppelin - Whole Lotta Love.mp4"}
+##  {background-video="slides_files/videos/Kate Bush - Running Up That Hill.mp4"}
 
 <!-- Round 6 ------------------------------------------------------------------>
 
@@ -843,7 +835,7 @@ format:
 :::{style="font-size:50%"}
 * *Note: in this round, I'm counting the year 1950 as being in the 1950s, etc.*
 
-* *Be sure to write your "My Three Songs" answer on the back!*
+* *Be sure to write your "My Four Songs" answer on the back!*
 :::
 
 # Round 6: Answers
@@ -852,27 +844,28 @@ format:
 
 ![](slides_files/picture-rounds/pic round - art of the 1900s by the decade - answer slide.png){fig-align="center"}
 
-# My Three Songs:
+# My Four Songs:
 
 *Secrets Revealed*
 
-## My Three Songs:
+## My Four Songs:
 
 :::{style="font-size:90%"}
 
--   Song #1: *Guns N' Roses -- Sweet Child O' Mine*
--   Song #2: *Kate Bush -- Running Up That Hill*
+-   Song #1: *Fiona Apple -- Paper Bag*
+-   Song #2: *The Killers -- Mr. Brightside*
 -   Song #3: *Led Zeppelin -- Whole Lotta Love*
+-   Song #4: *Kate Bush -- Running Up That Hill*
 
 :::
 
-## My Three Songs: The Hiden Link
+## My Four Songs: The Hiden Link
 
-All three songs were...
+All these songs were...
 
 ::: incremental
--   [**...songs sung by people named after plants!**]{.underline}
-    - **Axl Rose**, **Kate Bush**, and **Robert Plant** were the vocalists.
+-   [**...sung by people named after plants!**]{.underline}
+    - **Fiona Apple**, **Brandon Flowers**, **Robert Plant**, and **Kate Bush** were the vocalists.
 :::
 
 # Final Music Break
