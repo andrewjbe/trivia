@@ -202,8 +202,8 @@ music_break2 <- "https://www.youtube.com/embed/_qzacv8dtb4"
 
 # Music Break
 
-<!-- ##  {background-video="slides_files/videos/The Pharcyde - Drop.mp4"} -->
-## {background-iframe=`r paste0(music_break1, song_params)` allow="autoplay"}
+##  {background-video="slides_files/videos/The Pharcyde - Drop.mp4"}
+<!-- ## {background-iframe=`r paste0(music_break1, song_params)` referrerpolicy="unsafe-url" allow="autoplay"} -->
 
 <!-- Round 2 ------------------------------------------------------------------>
 
@@ -366,8 +366,8 @@ music_break2 <- "https://www.youtube.com/embed/_qzacv8dtb4"
     
 # My Four Songs #1
 
-<!-- ##  {background-video="slides_files/videos/Fiona Apple - Paper Bag.mp4"} -->
-## {background-iframe=`r paste0(my_songs1, song_params)` allow="autoplay"}
+##  {background-video="slides_files/videos/Fiona Apple - Paper Bag.mp4"}
+<!-- ## {background-iframe=`r paste0(my_songs1, song_params)` allow="autoplay"} -->
 
 <!-- Round 3 ------------------------------------------------------------------>
 
@@ -535,8 +535,8 @@ music_break2 <- "https://www.youtube.com/embed/_qzacv8dtb4"
     
 # My Four Songs #2
 
-<!-- ##  {background-video="slides_files/videos/The Killers - Mr. Brightside.mp4"} -->
-## {background-iframe=`r paste0(my_songs2, song_params)` allow="autoplay"}
+##  {background-video="slides_files/videos/The Killers - Mr. Brightside.mp4"}
+<!-- ## {background-iframe=`r paste0(my_songs2, song_params)` allow="autoplay"} -->
 
 <!-- Round 4 ------------------------------------------------------------------>
 
@@ -684,8 +684,8 @@ music_break2 <- "https://www.youtube.com/embed/_qzacv8dtb4"
 
 # My Four Songs #3
 
-<!-- ##  {background-video="slides_files/videos/Led Zeppelin - Whole Lotta Love.mp4"} -->
-## {background-iframe=`r paste0(my_songs3, song_params)` allow="autoplay"}
+##  {background-video="slides_files/videos/Led Zeppelin - Whole Lotta Love.mp4"}
+<!-- ## {background-iframe=`r paste0(my_songs3, song_params)` allow="autoplay"} -->
 
 <!-- Round 5 ------------------------------------------------------------------>
 
@@ -836,8 +836,8 @@ music_break2 <- "https://www.youtube.com/embed/_qzacv8dtb4"
 
 # My Four Songs #4
 
-<!-- ##  {background-video="slides_files/videos/Kate Bush - Running Up That Hill.mp4"} -->
-## {background-iframe=`r paste0(my_songs4, song_params)` allow="autoplay"}
+##  {background-video="slides_files/videos/Kate Bush - Running Up That Hill.mp4"}
+<!-- ## {background-iframe=`r paste0(my_songs4, song_params)` allow="autoplay"} -->
 
 <!-- Round 6 ------------------------------------------------------------------>
 
@@ -887,8 +887,8 @@ All these songs were...
 
 # Final Music Break
 
-<!-- ##  {background-video="slides_files/videos/The Roots - What They Do.mp4"} -->
-## {background-iframe=`r paste0(music_break2, song_params)` allow="autoplay"}
+##  {background-video="slides_files/videos/The Roots - What They Do.mp4"}
+<!-- ## {background-iframe=`r paste0(music_break2, song_params)` allow="autoplay"} -->
 
 # Final Scores
 
