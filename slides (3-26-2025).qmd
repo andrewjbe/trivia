@@ -9,6 +9,18 @@ format:
       data-background-image: slides_files/www/title-background.png
 ---
 
+```{r}
+song_params <- "?autoplay=1&controls=0&modestbranding=1&rel=0&showinfo=0&iv_load_policy=3"
+
+music_break1 <- "https://www.youtube.com/embed/wqVsfGQ_1SU" 
+my_songs1 <- "https://www.youtube.com/embed/BK30r_SIZ-g" 
+my_songs2 <- "https://www.youtube.com/embed/gGdGFtwCNBE"
+my_songs3 <- "https://www.youtube.com/embed/HQmmM_qwG4k"
+my_songs4 <- "https://www.youtube.com/embed/wp43OdtAAkM"
+music_break2 <- "https://www.youtube.com/embed/_qzacv8dtb4"
+  
+```
+
 # Trivia Rules
 
 ## How it Works {.smaller}
@@ -33,7 +45,7 @@ format:
 
 ## Question 1
 
-> A kilowatt is a unit of power equal to how many watts?
+> 10 *kilometers* is equal to how many *decameters*?
 
 ## Question 2
 
@@ -98,12 +110,12 @@ format:
 
 ## Question 1 
 
-> A kilowatt is a unit of power equal to how many watts?
+> 10 *kilometers* is equal to how many *decameters*?
 
 \
 
 ::: incremental
--   **Answer:** [**1,000 watts**]{.underline}
+-   **Answer:** [**1,000 (100 per kilometer)**]{.underline}
 :::
 
 ## Question 2
@@ -190,7 +202,8 @@ format:
 
 # Music Break
 
-##  {background-video="slides_files/videos/The Pharcyde - Drop.mp4"}
+<!-- ##  {background-video="slides_files/videos/The Pharcyde - Drop.mp4"} -->
+## {background-iframe=`r paste0(music_break1, song_params)` allow="autoplay"}
 
 <!-- Round 2 ------------------------------------------------------------------>
 
@@ -353,7 +366,8 @@ format:
     
 # My Four Songs #1
 
-##  {background-video="slides_files/videos/Fiona Apple - Paper Bag.mp4"}
+<!-- ##  {background-video="slides_files/videos/Fiona Apple - Paper Bag.mp4"} -->
+## {background-iframe=`r paste0(my_songs1, song_params)` allow="autoplay"}
 
 <!-- Round 3 ------------------------------------------------------------------>
 
@@ -521,7 +535,8 @@ format:
     
 # My Four Songs #2
 
-##  {background-video="slides_files/videos/The Killers - Mr. Brightside.mp4"}
+<!-- ##  {background-video="slides_files/videos/The Killers - Mr. Brightside.mp4"} -->
+## {background-iframe=`r paste0(my_songs2, song_params)` allow="autoplay"}
 
 <!-- Round 4 ------------------------------------------------------------------>
 
@@ -669,7 +684,8 @@ format:
 
 # My Four Songs #3
 
-##  {background-video="slides_files/videos/Led Zeppelin - Whole Lotta Love.mp4"}
+<!-- ##  {background-video="slides_files/videos/Led Zeppelin - Whole Lotta Love.mp4"} -->
+## {background-iframe=`r paste0(my_songs3, song_params)` allow="autoplay"}
 
 <!-- Round 5 ------------------------------------------------------------------>
 
@@ -820,7 +836,8 @@ format:
 
 # My Four Songs #4
 
-##  {background-video="slides_files/videos/Kate Bush - Running Up That Hill.mp4"}
+<!-- ##  {background-video="slides_files/videos/Kate Bush - Running Up That Hill.mp4"} -->
+## {background-iframe=`r paste0(my_songs4, song_params)` allow="autoplay"}
 
 <!-- Round 6 ------------------------------------------------------------------>
 
@@ -870,7 +887,8 @@ All these songs were...
 
 # Final Music Break
 
-##  {background-video="slides_files/videos/The Roots - What They Do.mp4"}
+<!-- ##  {background-video="slides_files/videos/The Roots - What They Do.mp4"} -->
+## {background-iframe=`r paste0(music_break2, song_params)` allow="autoplay"}
 
 # Final Scores
 
