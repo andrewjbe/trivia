@@ -1,0 +1,471 @@
+---
+title: "TRIVIA"
+author: "hosted by Andrew!"
+format: 
+  revealjs:
+    theme: [dark, slides_files/custom.scss]
+---
+
+# Part 1: *Oklahoma*
+
+## Question 1
+
+> What is the state bird of Oklahoma?
+
+## Question 2
+
+> In the recent midterm elections, Oklahoma declined to join several other red states in sending a Democrat to the US Senate.
+> 
+> In what **decade** did Oklahoma last have a Democrat for a Senator?
+
+## Question 3
+
+> In 2007, the illustrious Oklahoma state legislature determined that our state *vegetable* would be what?
+
+## Question 4
+
+> What NBA team moved to Oklahoma City in 2008 to become our beloved Thunder?
+
+## Question 5
+
+> Which has a greater population: the state of Oklahoma or the country of Denmark?
+
+# Part 2: *Fictional Countries*
+
+## Question 6
+
+> In *The Princess Diaries* (2001), Anne Hathaway is whisked away to inherit the throne of what nonexistent European principality?
+
+## Question 7
+
+> The city-state of Ankh-Morpork is the primary setting of what beloved fantasy series by Terry Pratchett?
+
+## Question 8
+
+> *Gulliver's Travels* took him to what country of tiny people?
+
+## Question 9
+
+> In *Lord of the Rings*, what country of Men is home to our friends Boromir and Faramir?
+
+## Question 10
+
+> In the world of *Avatar: The Last Airbender*, everything changed when what nation attacked?
+
+# Part 3: *Politics & History*
+
+## Question 11
+
+> Which of Bill Clinton's campaign strategists famously said "it's the economy, stupid!"
+
+## Question 12
+
+> What U.S. President declared *“I'm not for women in any job. I don't want any of them around. Thank God we don't have any in the cabinet.”*?
+
+## Question 13
+
+> Winston Churchill was the Prime Minister of the U.K. when Queen Elizabeth took the throne. Who was the Prime Minister when she died in 2022?
+
+## Question 14
+
+> The largest political party in the world by membership is located in what country?
+
+## Question 15
+
+> What governing document did the U.S. Constitution replace?
+
+# Part 4: *Opening Lines*
+
+*Name the book or movie that opens with the following lines.*
+
+## Question 16
+
+> "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+
+## Question 17
+
+> "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
+
+## Question 18
+
+> "All children, except one, grow up."
+
+## Question 19
+
+> "Way out west, there was the fella I wanna tell you about. Goes by the name of Jeff Lebowski."
+
+## Question 20
+
+> "Rosebud."
+
+# Part 5: *General Knowledge*
+
+## Question 21
+
+> The Apollo 11 mission made Neil Armstrong and Buzz Aldrin the first two humans to walk on the moon. What was the name of the third crew member, who never got the chance?
+
+## Question 22
+
+> Which of the major arcana in a traditional Tarot deck shares its name with a popular TV game show?
+
+## Question 23
+
+> Which of these places has the largest population:
+>
+> -   Australia
+>
+> -   Florida
+>
+> -   Republic of Madagascar
+
+## Question 24
+
+> What grammatical term refers to a verb used as a noun? E.g. “I love [baking]{.underline} and [jogging]{.underline}!”
+
+## Question 25
+
+> What does VHS (as in VHS tape) stand for?
+
+# Part 6: *Veginnings*
+
+*Every answer starts with a "V"*
+
+## Question 26
+
+> Bat man
+
+## Question 27
+
+> Ear-splitting World Cup noisemaker
+
+## Question 28
+
+> A, B, C, D, or K, for example
+
+## Question 29
+
+> Orchid with a tasty bean
+
+## Question 30
+
+> Like a fox
+
+# Bonus: Picture Round
+
+Earn a bonus point for each one of these historically *best selling albums* that you can identify by name!
+
+## Picture Round
+
+![](slides_files/picture-rounds/best%20selling%20albums.png){fig-align="center"}
+
+# Part 1: *Oklahoma* — Answers
+
+## Question 1
+
+> What is the state bird of Oklahoma?
+
+::: incremental
+-   **Answer:** [**The scissor-tailed flycatcher**]{.underline}
+:::
+
+## Question 2
+
+> In what **decade** did Oklahoma last have a Democrat for a Senator?
+
+::: incremental
+-   **Answer:** [**The 1990s**]{.underline}
+    - David Boren left the Senate in 1994 to become president of the University of Oklahoma, and it's been all GOP since.
+:::
+
+## Question 3
+
+> In 2007, the illustrious Oklahoma state legislature determined that our state *vegetable* would be what?
+
+::: incremental
+-   **Answer:** [**Watermelon**]{.underline}
+    - You may notice that this is a fruit, not a vegetable. Welcome to Oklahoma!
+:::
+
+## Question 4
+
+> What NBA team moved to Oklahoma City in 2008 to become our beloved Thunder?
+
+\
+
+::: incremental
+-   **Answer:** [**The Seattle SuperSonics**]{.underline}
+:::
+
+## Question 5
+
+> Which has a greater population: the state of Oklahoma or the country of Denmark?
+
+::: incremental
+-   **Answer:** [**Denmark**]{.underline}
+    - Denmark has about 6 million people, compared to Oklahoma's roughly 4.1 million.
+:::
+
+# Part 2: *Fictional Countries* — Answers
+
+## Question 6
+
+> In *The Princess Diaries* (2001), Anne Hathaway is whisked away to inherit the throne of what nonexistent European principality?
+
+::: incremental
+-   **Answer:** [**Genovia**]{.underline}
+:::
+
+## Question 7
+
+> The city-state of Ankh-Morpork is the primary setting of what beloved fantasy series by Terry Pratchett?
+
+\
+
+::: incremental
+-   **Answer:** [**Discworld**]{.underline}
+:::
+
+## Question 8
+
+> *Gulliver's Travels* took him to what country of tiny people?
+
+\
+
+::: incremental
+-   **Answer:** [**Lilliput**]{.underline}
+:::
+
+## Question 9
+
+> In *Lord of the Rings*, what country of Men is home to our friends Boromir and Faramir?
+
+\
+
+::: incremental
+-   **Answer:** [**Gondor**]{.underline}
+:::
+
+## Question 10
+
+> In the world of *Avatar: The Last Airbender*, everything changed when what nation attacked?
+
+\
+
+::: incremental
+-   **Answer:** [**The Fire Nation**]{.underline}
+    
+:::
+
+# Part 3: *Politics & History* — Answers
+
+## Question 11
+
+> Which of Bill Clinton's campaign strategists famously said "it's the economy, stupid!"
+
+\
+
+::: incremental
+-   **Answer:** [**James Carville**]{.underline}
+:::
+
+## Question 12
+
+> What U.S. President declared *“I'm not for women in any job. I don't want any of them around. Thank God we don't have any in the cabinet.”*?
+
+::: incremental
+-   **Answer:** [**Richard Nixon**]{.underline}
+:::
+
+## Question 13 {.smaller}
+
+> Winston Churchill was the Prime Minister of the U.K. when Queen Elizabeth took the throne. Who was the Prime Minister when she died in 2022?
+
+::: incremental
+-   **Answer:** [**Liz Truss**]{.underline}
+    - She was in office for less than 50 days, but managed to become one of the most unpopular PMs in history. 
+    - In October of 2022 once poll recorded her approval rating at 9%. Yikes!
+:::
+
+## Question 14
+
+> The largest political party in the world by membership is located in what country?
+
+::: incremental
+-   **Answer:** [**India**]{.underline}
+    -   The Indian People's Party, or BJP, has over 100 million registered members!
+:::
+
+## Question 15
+
+> What governing document did the U.S. Constitution replace?
+
+\
+
+::: incremental
+-   **Answer:** [**The Articles of Confederation**]{.underline}
+:::
+
+# Part 4: *Opening Lines* — Answers
+
+## Question 16
+
+> "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+
+::: incremental
+-   **Answer:** [**"Pride and Prejudice" by Jane Austen**]{.underline}
+:::
+
+## Question 17
+
+> "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
+
+::: incremental
+-   **Answer:** [**"Metamorphosis" by Franz Kafka**]{.underline}
+:::
+
+## Question 18
+
+> "All children, except one, grow up."
+
+::: incremental
+-   **Answer:** [**"Peter Pan" by James Matthew Barrie**]{.underline}
+:::
+
+## Question 19
+
+> "Way out west, there was the fella I wanna tell you about. Goes by the name of Jeff Lebowski."
+
+::: incremental
+-   **Answer:** [**"The Big Lebowski", directed by Ethan and Joel Coen**]{.underline}
+:::
+
+## Question 20
+
+> "Rosebud."
+
+\
+
+::: incremental
+-   **Answer:** [**"Citizen Kane", directed by Orson Welles**]{.underline}
+:::
+
+# Part 5: *General Knowledge* — Answers
+
+## Question 21
+
+> The Apollo 11 mission made Neil Armstrong and Buzz Aldrin the first two humans to walk on the moon. What was the name of the third crew member, who never got the chance?
+
+::: incremental
+-   **Answer:** [**Michael Collins**]{.underline}
+:::
+
+## Question 22
+
+> Which of the major arcana in a traditional Tarot deck shares its name with a popular TV game show?
+
+\
+
+::: incremental
+-   **Answer:** [**The Wheel of Fortune**]{.underline}
+:::
+
+## Question 23 {.smaller}
+
+> Which of these places has the largest population:
+>
+> -   Australia
+>
+> -   Florida
+>
+> -   Republic of Madagascar
+
+::: incremental
+-   **Answer:** [**The Republic of Madagascar (29.61 million)**]{.underline}
+    -   Australia has 26.1 million, and Florida has 22.24 million.
+:::
+
+## Question 24
+
+> What grammatical term refers to a verb used as a noun? E.g. “I love [baking]{.underline} and [jogging]{.underline}!”
+
+\
+
+::: incremental
+-   **Answer:** [**Gerund**]{.underline}
+:::
+
+## Question 25
+
+> What does VHS (as in VHS tape) stand for?
+
+\
+
+::: incremental
+-   **Answer:** [**Video Home System**]{.underline}
+:::
+
+# Part 6: *Veginnings* — Answers
+
+## Question 26
+
+> Bat man
+
+\
+
+::: incremental
+-   **Answer:** [**Vampire**]{.underline}
+:::
+
+## Question 27
+
+> Ear-splitting World Cup noisemaker
+
+\
+
+::: incremental
+-   **Answer:** [**Vuvuzela**]{.underline}
+:::
+
+## Question 28
+
+> A, B, C, D, or K, for example
+
+\
+
+::: incremental
+-   **Answer:** [**Vitamins**]{.underline}
+:::
+
+## Question 29
+
+> Orchid with a tasty bean
+
+\
+
+::: incremental
+-   **Answer:** [**Vanilla**]{.underline}
+:::
+
+## Question 30
+
+> Like a fox
+
+\
+
+::: incremental
+-   **Answer:** [**Vulpine**]{.underline}
+:::
+
+# Picture Round — Answers
+
+## Picture Round
+
+![](slides_files/picture-rounds/best%20selling%20albums%20answers.png){fig-align="center"}
+
+# Who won?
+
+Add up your correct answers to see your final score! Whoever got the highest score officially earns Andrew's Respect™.
+
+\
+
+Thanks for listening, I hope this was fun!
